@@ -1,6 +1,6 @@
 
 async function loadDoc() {
-  let response = await fetch('Blogs/Newsdata/api/sports.json');
+  let response = await fetch('Blog/Newsdata/api/sports.json');
   let data = await response.json();
   let articles =await data.articles;
   let row = document.getElementById('row');
