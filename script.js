@@ -8,7 +8,7 @@ async function loadDoc() {
   // console.log(articles)
    
   articles.map((element)=>{
-    console.log(element)
+    // console.log(element)
     row.innerHTML +=
     ` <div class="col-md-4 my-2">
     <div class="card" style="width: 18rem">
