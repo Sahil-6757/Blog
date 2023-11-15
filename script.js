@@ -10,7 +10,7 @@ async function loadDoc() {
   articles.map((element)=>{
     console.log(element)
     row.innerHTML +=
-    ` <div class="col-md-4 mx-4 my-2">
+    ` <div class="col-md-4 my-2">
     <div class="card" style="width: 18rem">
       <img src="${element.urlToImage}" class="card-img-top" alt="..." />
       <div class="card-body">
