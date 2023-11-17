@@ -1,15 +1,13 @@
-
 async function loadDoc() {
-  let response = await fetch('Newsdata/api/general.json');
+  let response = await fetch("Newsdata/api/general.json");
   let data = await response.json();
-  let articles =await data.articles;
-  let row = document.getElementById('row');
+  let articles = await data.articles;
+  let row = document.getElementById("row");
   // console.log(articles)
-   
-  articles.map((element)=>{
+
+  articles.map((element) => {
     // console.log(element)
-    row.innerHTML +=
-    ` <div class="col-md-4 my-2">
+    row.innerHTML += ` <div class="col-md-4 my-2">
     <div class="card" style="width: 18rem">
       <img src="${element.urlToImage}" class="card-img-top" alt="..." />
       <div class="card-body">
@@ -24,8 +22,7 @@ async function loadDoc() {
       </div>
     </div>
   </div>`;
-  })
-  
+  });
 }
 
-loadDoc();;
+loadDoc();
