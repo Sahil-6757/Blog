@@ -3,124 +3,364 @@
   "totalResults": 38,
   "articles": [
     {
-      "source": { "id": null, "name": "India Today" },
-      "author": "India Today News Desk",
-      "title": "IND vs AUS Live, World Cup 2023 Final: PM Narendra Modi arrives in Ahmedabad - India Today",
-      "description": "India (IND) vs Australia (AUS), Live Updates, World Cup 2023 Final: PM Narendra Modi has arrived in Ahmedabad. India were bowled out for the 1st time in World Cup 2023. The Men in Blue were bundled for 240 runs with Mitchell Starc picking 3 wickets in the fin…",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-world-cup-2023-india-australia-final-live-weather-ahmedabad-2464725-2023-11-19",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/breaking_news/202311/ind-vs-aus-live--world-cup-2023-final-reuters-photo-195154377-16x9_0.jpg?VersionId=HNy_buhCdqkCDBYufMOB3xMd4lYcfUgN",
-      "publishedAt": "2023-11-19T12:25:21Z",
-      "content": "Hello and welcome to our live coverage of the India vs Australia final from Ahmedabad\r\nWorld Cup Final: Warner gets a repreive \r\nDavid Warner gets a reprieve in the very first over of Australia's run… [+19465 chars]"
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "ET HealthWorld",
+      "title": "Nanoplastics promote conditions for Parkinson's, dementia: Study - ETHealthWorld",
+      "description": "Improperly disposed plastics have been shown to break into very small pieces and accumulate in water and food supplies, and were found in the blood of most adults in a recent study.",
+      "url": "https://health.economictimes.indiatimes.com/news/industry/nanoplastics-promote-conditions-for-parkinsons-dementia-study/105359497",
+      "urlToImage": "https://etimg.etb2bimg.com/thumb/msid-105359497,imgsize-6838,width-1200,height=765,overlay-ethealth/industry/nanoplastics-promote-conditions-for-parkinsons-dementia-study.jpg",
+      "publishedAt": "2023-11-20T11:58:05Z",
+      "content": "New Delhi: Nanoplastics interact with a particular protein that is naturally found in the brain, creating changes linked to Parkinson's disease and some types of dementia, a study has found. The rese… [+2154 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Moneycontrol" },
+      "author": "Reuters",
+      "title": "Jio Financial Services in talks for maiden bond issue, say bankers - Moneycontrol",
+      "description": "The company may look to raise Rs 5,000 crore ($600.6 million) to Rs 10,000 crore through the issue and may tap the market in the last quarter of this financial year, the bankers added.",
+      "url": "https://www.moneycontrol.com/news/business/companies/jio-financial-services-in-talks-for-maiden-bond-issue-say-bankers-11775091.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/08/Sensex_market_Nifty-1-770x433.jpg",
+      "publishedAt": "2023-11-20T11:35:34Z",
+      "content": "India's Jio Financial Services is in early talks with merchant bankers for its maiden bond issue, four bankers told Reuters on Monday.\r\nThe company may look to raise Rs 5,000 crore ($600.6 million) t… [+1893 chars]"
+    },
+    {
+      "source": { "id": null, "name": "News18" },
+      "author": "News Desk",
+      "title": "Kerala Lottery Result Today LIVE: WIN-WIN W-744 WINNERS for November 20; First Prize Rs 75 Lakh! - News18",
+      "description": "Kerala Lottery Results 2023 LIVE UPDATES: Here's full list of winning numbers for WIN-WIN W-744 lucky draw for Monday, November 20.",
+      "url": "https://www.news18.com/india/kerala-lottery-result-today-win-win-w-744-lucky-numbers-for-november-20-2023-8666243.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/11/kerala-lottery-results-2023-november-20-live-updates-2023-11-3f0956b1b43e2f1c29c81f254c8c2849-16x9.jpg?impolicy=website&width=1200&height=675",
+      "publishedAt": "2023-11-20T11:25:00Z",
+      "content": "KERALA LOTTERY WIN-WIN W-744 RESULT ON MONDAY, NOVEMBER 20 LIVE UPDATES:The Kerala Lottery Department has announced the results of the Win-Win W-744 lottery for Monday, November 20. Check out the ful… [+4571 chars]"
     },
     {
       "source": { "id": null, "name": "Hindustan Times" },
-      "author": "HT News Desk",
-      "title": "Israel-Hamas war LIVE: 32 babies in critical condition at Shifa hospital in Gaza - Hindustan Times",
-      "description": "Israel-Hamas war LIVE updates: Over 12,300 people, including children have been killed in the war so far.",
-      "url": "https://www.hindustantimes.com/world-news/israel-hamas-war-news-live-updates-november-19-latest-palestine-gaza-strip-hamas-militants-un-aid-101700352711190.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/19/1600x900/ISRAEL-PALESTINIANS-GAZA-14_1700066894648_1700375996477.JPG",
-      "publishedAt": "2023-11-19T12:12:19Z",
-      "content": "Israel-Hamas war LIVE updates: The war between Israel and Palestinian territory's Hamas rulers has entered its seventh week following Hamas' unprecedented attack on October 7 in southern Israel that … [+4616 chars]"
+      "author": "HT Entertainment Desk",
+      "title": "Twinkle defends Deepika after she was trolled over her dating comment on KWK - Hindustan Times",
+      "description": "Twinkle Khanna said that Deepika Padukone's \"approach to finding a suitable partner is rather logical\". Deepika was criticised for her KWK comments. | Bollywood",
+      "url": "https://www.hindustantimes.com/entertainment/bollywood/twinkle-khanna-defends-deepika-padukone-after-she-was-trolled-over-her-dating-comment-on-koffee-with-karan-8-101700476127665.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/20/1600x900/Twinkle_Khanna_Deepika_Padukone_1700478635424_1700478647542.jpg",
+      "publishedAt": "2023-11-20T11:22:01Z",
+      "content": "Actor-turned-author Twinkle Khanna has extended her support to Deepika Padukone after a section of the internet criticised her. In her Times of India column, Twinkle said that Deepika was slammed as … [+2664 chars]"
     },
     {
       "source": { "id": null, "name": "Hindustan Times" },
-      "author": "Vrinda Jain",
-      "title": "From SRK to Deepika Padukone: Who all are attending Ind vs Aus World Cup Final? - Hindustan Times",
-      "description": "Several celebrities were seen attending Ind vs Aus World Cup Final 2023. Here's how X reacted.  | Trending",
-      "url": "https://www.hindustantimes.com/trending/from-srk-to-deepika-padukone-who-all-are-attending-ind-vs-aus-world-cup-final-101700390729501.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/19/1600x900/Ind_vs_aus_1700391176296_1700391183849.png",
-      "publishedAt": "2023-11-19T11:00:54Z",
-      "content": "India is currently facing Australia in the ICC Men's World Cup Final at the Narendra Modi Stadium in Ahmedabad, Gujarat. Numerous excited celebrities cheering for the Indian cricket team were spotted… [+1085 chars]"
+      "author": "Aniruddha Dhar",
+      "title": "Sam Altman, sacked OpenAI CEO, to join Microsoft. ChatGPT-maker row explained - Hindustan Times",
+      "description": "Greg Brockman, who quit OpenAI as its president after Sam Altman's ouster, will also join Microsoft, Satya Nadella announced.",
+      "url": "https://www.hindustantimes.com/technology/sam-altman-sacked-openai-ceo-to-join-satya-nadellas-microsoft-what-happened-in-3-days-chatgpt-maker-row-explained-101700475057682.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/20/1600x900/US-TECH-CEOS-ATTEND-SEN--SCHUMER-S-SENATE-AI-FORUM-23_1700479000893_1700479170574.jpg",
+      "publishedAt": "2023-11-20T11:21:47Z",
+      "content": "Sam Altman, the sacked OpenAI chief executive officer (CEO), is joining Microsoft Corp. to lead its artificial intelligence effort, Satya Nadella, the CEO of the US software firm, confirmed on Monday… [+3115 chars]"
     },
     {
       "source": { "id": null, "name": "BBC News" },
-      "author": null,
-      "title": "Fan Invades Pitch, Hugs Virat Kohli In Massive Security Breach During Cricket World Cup 2023 Final - NDTV Sports",
-      "description": "A fan invaded the pitch at the Narendra Modi Stadium in Ahmedabad during the Cricket World Cup 2023 final between India and Australia.",
-      "url": "http://www.bbc.com/news/world-us-canada-39324587",
-      "urlToImage": "https://c.ndtvimg.com/2023-11/h64ee6uo_palestine_625x300_19_November_23.jpg",
-      "publishedAt": "2023-11-19T10:45:00Z",
-      "content": "A fan invaded the pitch and hugged Virat Kohli in a massive security breach at the Narendra Modi Stadium in Ahmedabad during the Cricket World Cup 2023 final between India and Australia on Sunday. Du… [+1720 chars]"
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Mohammed Shami's Mother Hospitalised During Cricket World Cup 2023 Final: Report - NDTV Sports",
+      "description": "Director Comey says the probe into last year's US election would assess if crimes were committed.",
+      "url": "https://www.bbc.com/news/world-us-canada-39324587",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/44EC/production/_95244671_mediaitem95244670.jpg",
+      "publishedAt": "2023-11-20T11:15:07Z",
+      "content": "Media caption, 'Putin hates Clinton' and other things the FBI learned about Russia\r\nFBI director James Comey has confirmed for the first time that the FBI is investigating alleged Russian interferenc… [+5942 chars]"
     },
     {
-      "source": { "id": null, "name": "Deccan Herald" },
-      "author": "DH Web Desk",
-      "title": "Assembly Elections 2023 Updates: Elections are fought not only to form govt but also to build society and country, says Rajnath in Rajasthan - Deccan Herald",
-      "description": null,
-      "url": "https://www.deccanherald.com/india/assembly-elections-2023-latest-updates-mizoram-rajasthan-madhya-pradesh-chhattisgarh-telangana-congress-modi-rahul-bjp-news-2776762",
-      "urlToImage": "https://images.deccanherald.com/deccanherald%2F2023-11%2Fcdce03f1-6e42-4d4e-81be-4eaf126e5d28%2Ffile72zrz512h74wfftakh8.jpg?rect=0%2C23%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "publishedAt": "2023-11-19T10:40:24Z",
-      "content": "BJP national president J P Nadda says, \"Whether it is Farooq Abdullah, Omar Abdullah and Mehbooba Mufti in J&amp;K, Prakash Singh Badal and Sukhbir Badal in Punjab, Chautala in Haryana, Mulayam Singh… [+479 chars]"
+      "source": { "id": null, "name": "Livemint" },
+      "author": "Bloomberg",
+      "title": "Xiaomi posts first sales rise since 2021 as phone market firms | Mint - Mint",
+      "description": "Amid rebound in global demand of mobile phones, Xiaomi Corp, posted its first revenue gain in almost two years. The company posted sales of 70.9 billion yuan for the September quarter, compared to the average projections for 70.5 billion",
+      "url": "https://www.livemint.com/companies/company-results/xiaomi-posts-first-sales-rise-since-2021-as-phone-market-firms-11700475989479.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/11/20/1600x900/XIAOMi_1700476079741_1700476080013.JPG",
+      "publishedAt": "2023-11-20T10:37:06Z",
+      "content": "Xiaomi Corp. posted its first revenue gain in almost two years, a welcome boost for a smartphone maker thats begun aggressively attacking its Chinese rivals with higher-end models at home and abroad.… [+2831 chars]"
     },
     {
-      "source": { "id": null, "name": "The Indian Express" },
-      "author": "The Indian Express",
-      "title": "India vs Australia Live Score, World Cup 2023 Final: Virat Kohli gets to half-century after IND lose three early wickets - The Indian Express",
+      "source": { "id": null, "name": "Financial Express" },
+      "author": "The Financial Express",
+      "title": "International Space Station turns 25! Know all about this groundbreaking initiative - The Financial Express",
       "description": null,
-      "url": "https://indianexpress.com/article/sports/cricket/india-vs-australia-live-score-world-cup-2023-final-ind-vs-aus-scorecard-updates-narendra-modi-stadium-ahmedabad-9032550/",
+      "url": "https://www.financialexpress.com/life/science-international-space-station-turns-25-know-all-about-this-groundbreaking-initiative-bkg-3312056/",
       "urlToImage": null,
-      "publishedAt": "2023-11-19T10:33:00Z",
+      "publishedAt": "2023-11-20T10:31:21Z",
       "content": null
     },
     {
-      "source": { "id": null, "name": "Hindustan Times" },
-      "author": "Lingamgunta Nirmitha Rao",
-      "title": "‘Jaadugar ki jaadugari in lal dairy…’: PM Modi attacks Gehlot at Rajasthan rally - Hindustan Times",
-      "description": "Polling for the 200-member Rajasthan Assembly will be held on November 25, and votes will be counted on December 3. | Latest News India",
-      "url": "https://www.hindustantimes.com/india-news/jaadugar-ki-jaadugari-in-lal-dairy-pm-modi-attacks-gehlot-at-poll-rally-in-rajasthan-101700384804153.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/19/1600x900/Screenshot_2023-11-19_153658_1700388427513_1700388435917.png",
-      "publishedAt": "2023-11-19T10:28:25Z",
-      "content": "Prime Minister Narendra Modi, at a public rally on Sunday in Rajasthan's Churu district, criticised chief minister and Congress leader Ashok Gehlot, calling him a jaadugar (magician) whose tricks are… [+3174 chars]"
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "TIMESOFINDIA.COM",
+      "title": "'First light' beyond Moon: NASA sets record in interplanetary laser communication - IndiaTimes",
+      "description": "US News: NASA's Deep Space Optical Communications (DSOC) experiment has achieved a groundbreaking milestone by successfully transmitting data via laser to and",
+      "url": "https://timesofindia.indiatimes.com/world/us/first-light-beyond-moon-nasa-sets-record-in-interplanetary-laser-communication/articleshow/105355959.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-105356146,width-1070,height-580,imgsize-1750421,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-20T10:25:00Z",
+      "content": "Top 8 vegetarian alternatives to chicken for protein intake"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera",
+      "title": "Japan seeking talks with Houthi hijackers of Red Sea Israeli-linked ship - Al Jazeera English",
+      "description": "Japan has approached Yemeni rebels in a bid to secure the release of the Galaxy Leader, hijacked in Red Sea.",
+      "url": "https://www.aljazeera.com/news/2023/11/20/japan-in-direct-contact-with-houthi-rebels-on-highjacked-ship",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/2022-01-03T181953Z_1202213461_RC2URR9X1XPF_RTRMADP_3_YEMEN-SECURITY-SHIP-1700466760.jpg?resize=1920%2C1438",
+      "publishedAt": "2023-11-20T10:03:06Z",
+      "content": "Japan says it is directly approaching the Houthi rebels who have hijacked a cargo ship in the Red Sea.\r\nTokyo said on Monday that it is also communicating with Israel as it seeks to secure the releas… [+2552 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "3 Killed As Portion Of Under-Construction Stadium Collapses In Telangana - NDTV",
+      "description": null,
+      "url": "https://families.google.com/service-restricted",
+      "urlToImage": null,
+      "publishedAt": "2023-11-20T10:00:11Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "TIMESOFINDIA.COM",
+      "title": "Skill development case: Andhra Pradesh High Court grants bail to TDP chief Chandrababu Naidu - Times of India",
+      "description": "Sunkara Krishnamurthy, an advocate from the Andhra Pradesh High Court, informed that Chandrababu Naidu, who was on interim bail until November 28, has",
+      "url": "https://timesofindia.indiatimes.com/city/amaravati/skill-development-case-andhra-pradesh-high-court-grants-bail-to-tdp-chief-chandrababu-naidu/articleshow/105354984.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-105354956,width-1070,height-580,imgsize-11148,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-20T09:54:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Financial Express" },
+      "author": "The Financial Express",
+      "title": "Can superbugs trigger next contagion? Researchers issue massive warning on ‘silent pandemic’ bkg - The Financial Express",
+      "description": null,
+      "url": "https://www.financialexpress.com/healthcare/news-healthcare/can-superbugs-trigger-next-contagion-researchers-issue-massive-warning-on-silent-pandemic-bkg/3311957/",
+      "urlToImage": null,
+      "publishedAt": "2023-11-20T09:35:47Z",
+      "content": null
     },
     {
       "source": { "id": null, "name": "WION" },
       "author": "WION Web Team",
-      "title": "‘Cosmic Vine’: Scientists discover enormous cosmic structure hosting 20 galaxies - WION",
-      "description": "‘Cosmic Vine’: Scientists discover enormous cosmic structure hosting 20 galaxies",
-      "url": "https://www.wionews.com/science/cosmic-vine-scientists-discover-enormous-cosmic-structure-hosting-20-galaxies-660417",
-      "urlToImage": "https://cdn.wionews.com/sites/default/files/2023/11/19/394070-wion-images-93.png",
-      "publishedAt": "2023-11-19T10:22:01Z",
-      "content": "An international team of scientists have discovered an enormous structure which is home to at least 20 massive galaxies. The structure, dubbed Cosmic Vine, is said to be about 13 million light-years … [+2355 chars]"
+      "title": "Israel-Hamas war LIVE: IDF releases CCTV footage claiming Hamas brought hostages to Al-Shifa hospital - WION",
+      "description": "Israel-Hamas war LIVE: IDF releases CCTV footage claiming Hamas brought hostages to Al-Shifa hospital",
+      "url": "https://www.wionews.com/world/israel-hamas-war-live-31-babies-evacuated-from-gazas-al-shifa-hospital-fighting-serious-infections-says-who-660598",
+      "urlToImage": "https://cdn.wionews.com/sites/default/files/2023/11/20/394273-untitled-design-1.jpg",
+      "publishedAt": "2023-11-20T09:34:31Z",
+      "content": "The head of a prominent media institution in Gaza and two other journalists were killed during the weekend in Israel's offensive in the territory, their relatives said on Sunday.\r\nOn Sunday, Belal Ja… [+705 chars]"
     },
     {
-      "source": { "id": null, "name": "Vatican News" },
-      "author": "Vatican News",
-      "title": "Al-Aqsa Professor: Pope Francis has ‘clear voice’ on Gaza, more must be done - Vatican News - English",
-      "description": "In an interview with Vatican News, Jerusalem-based Professor Mustafa AbuSway describes the “unbridled carnage” in Gaza, and thanks Pope Francis for his efforts for a ceasefire, saying “we need to hear his voice more and more.”",
-      "url": "https://www.vaticannews.va/en/world/news/2023-11/professor-mustafa-abu-sway-pope-francis-gaza-church-islam.html",
-      "urlToImage": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2023/11/17/17/1700237511741.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
-      "publishedAt": "2023-11-19T09:56:24Z",
-      "content": "By Joseph Tulloch\r\nPope Francis calls for a ceasefire in Gaza are a clear voice that we need to hear more and more.\r\nThats according to Mustafa AbuSway, the Imam Al-Ghazali Chair at the Al-Aqsa Mosqu… [+3486 chars]"
+      "source": { "id": "the-hindu", "name": "The Hindu" },
+      "author": "The Hindu",
+      "title": "Governor Ravi - T.N. government row | Supreme Court says law does not give Governor ‘discretion’ to withhold Bills re-passed by Assembly - The Hindu",
+      "description": null,
+      "url": "https://www.thehindu.com/news/national/rn-ravi-tn-govt-row-sc-says-law-does-not-give-governor-discretion-to-withhold-bills-re-passed-by-assembly/article67553775.ece",
+      "urlToImage": null,
+      "publishedAt": "2023-11-20T09:20:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "GSMArena.com" },
+      "author": "Michail",
+      "title": "OnePlus 12 is launching on December 4 - GSMArena.com news - GSMArena.com",
+      "description": "OnePlus will celebrate its tenth anniversary on the same date. OnePlus is gearing up to celebrate its tenth anniversary by holding a big event on December...",
+      "url": "https://www.gsmarena.com/oneplus_12_is_launching_on_december_4_-news-60631.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/11/oneplus-12-dec-4/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2023-11-20T09:16:01Z",
+      "content": "OnePlus is gearing up to celebrate its tenth anniversary by holding a big event on December 4 in Shenzhen, China. One of the key talking points will be the brand new OnePlus 12 which will be announce… [+892 chars]"
     },
     {
       "source": { "id": null, "name": "Hindustan Times" },
-      "author": "Vaibhav Tiwari",
-      "title": "Uttarkashi Tunnel collapse: Vitamins sent in; vertical drilling planned - Hindustan Times",
-      "description": "On Sunday morning, the authorities supplied food and other essentials to the workers via large diameter pipes through the debris. | Latest News India",
-      "url": "https://www.hindustantimes.com/india-news/uttarkashi-tunnel-collapse-vitamins-sent-in-for-workers-amid-lack-of-sunlight-vertical-drilling-planned-101700385965029.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/19/1600x900/PTI11-19-2023-000254B-0_1700386302925_1700386368826.jpg",
-      "publishedAt": "2023-11-19T09:43:56Z",
-      "content": "Union minister Nitin Gadkari and Uttarakhand chief minister Pushkar Singh Dhami reached Uttarkashi on Sunday to review the operation to rescue 40 workers trapped inside a collapsed tunnel. The rescue… [+3324 chars]"
+      "author": "HT Sports Desk",
+      "title": "Babar Azam, Shaheen Afridi celebrate Australia's World Cup win over India - Hindustan Times",
+      "description": "While Babar's post did not have any mention of India, Afridi congratulated Rohit Sharma's men for being the most dominating and consistent team of World Cup. | Cricket",
+      "url": "https://www.hindustantimes.com/cricket/babar-azam-shaheen-afridi-celebrate-australias-world-cup-win-pakistan-t20-captain-calls-india-fantastic-team-101700469767111.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/20/1600x900/ICC-PAK-ENG-7_1700469941226_1700470027646.jpg",
+      "publishedAt": "2023-11-20T08:52:35Z",
+      "content": "Former Pakistan captain Babar Azam and newly-appointed T20I skipper Shaheen Shah Afridi congratulated Australia for World Cup 2023 by beating a strong Indian side in the final on Sunday at the Narend… [+3668 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Livemint" },
+      "author": "Livemint",
+      "title": "IAF scrambles Rafale fighters to search for UFO near Imphal airport | Mint - Mint",
+      "description": "Indian Air Force scrambled Rafale fighter aircraft to search for unidentified flying objects near Imphal airport.",
+      "url": "https://www.livemint.com/news/india/iaf-scrambles-rafale-fighters-to-search-for-ufo-near-imphal-airport-11700467100405.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/11/20/1600x900/India-Air-Force-Day-15_1698725920499_1700469812214.jpg",
+      "publishedAt": "2023-11-20T08:44:32Z",
+      "content": "The Indian Air Force on Sunday received information about the sighting of unidentified flying objects near the Imphal airport. Soon, the IAF scrambled its Rafale fighter aircraft to search for them. … [+1906 chars]"
     },
     {
       "source": { "id": null, "name": "Hindustan Times" },
-      "author": "HT News Desk",
-      "title": "Assembly Elections 2023 Live: ‘Rajasthan a land of braves,’ says PM Modi - Hindustan Times",
-      "description": "Assembly Elections 2023 Live Updates: The counting of votes for five states (Chhattisgarh, MP, Mizoram, Rajasthan and Telangana) will be held on December 3.",
-      "url": "https://www.hindustantimes.com/india-news/assembly-elections-2023-live-updates-chhattisgarh-madhya-pradesh-mizoram-rajasthan-telangana-101700367318709.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/19/1600x900/A-police-officer-stands-guard-as-women-voters-wait_1700223754398_1700367411775.jpg",
-      "publishedAt": "2023-11-19T09:28:27Z",
-      "content": "Assembly Elections 2023 Live Updates: Campaigning continues for the Rajasthan and Telangana assembly elections, with the two states due to poll on November 25 and 30, respectively. Of the five states… [+4757 chars]"
+      "author": "Manjiri Chitre",
+      "title": "Uttarkashi tunnel collapse: PM Modi speaks to CM Dhami; rescue ops enter Day 9 - Hindustan Times",
+      "description": "Uttarkashi tunnel collapse: The efforts to rescue 40 workers trapped under the tunnel entered its Day 9 today. | Latest News India",
+      "url": "https://www.hindustantimes.com/india-news/uttarkashi-tunnel-collapse-pm-modi-speaks-to-cm-dhami-rescue-ops-enter-day-9-101700461642310.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/20/1600x900/PTI11-18-2023-000097A-0_1700305924775_1700461733161.jpg",
+      "publishedAt": "2023-11-20T08:34:35Z",
+      "content": "Efforts to rescue the 41 construction workers trapped 260 meters inside the Silkyara-Barkot under-construction tunnel in Uttarakhand's Uttarkashi are being carried out at a war footing on the ninth d… [+478 chars]"
     },
     {
-      "source": { "id": null, "name": "Jagran.com" },
-      "author": "Prerna Targhotra",
-      "title": "5 Expert Recommended Tips For New Moms To Take Care Of Their Premature Baby At Home - Jagran English",
-      "description": "Tips To Take Care Of Premature Baby At Home: Often it is nothing less than a challenge to take care of a premature baby at home. But with a few helpful tips on how to take care of their premature baby.",
-      "url": "https://english.jagran.com/lifestyle/5-expert-recommended-tips-for-new-moms-to-take-care-of-their-premature-baby-at-home-10114841",
-      "urlToImage": "https://imgeng.jagran.com/images/2023/nov/tips-to-take-care-of-premature-baby-at-home1700386144610.jpg",
-      "publishedAt": "2023-11-19T09:17:00Z",
-      "content": "Tips To Take Care Of Premature Baby At Home: A premature baby is one who is born too early, usually before the 37th week of pregnancy. These babies often have serious health problems including breath… [+3116 chars]"
+      "source": { "id": null, "name": "Moneycontrol" },
+      "author": "Namita S Kalla",
+      "title": "Health benefits of bajra in winter: Keeps blood sugar low, boosts immunity, helps you lose weight - Moneycontrol",
+      "description": "Health benefits of bajra: Whether in the form of rotis, porridge, pancakes, or as an addition to soups, pearl millet's versatility makes it an excellent choice for all. Bajra's nutritional prowess and array of health advantages make it a winter essential.",
+      "url": "https://www.moneycontrol.com/news/health-and-fitness/what-to-eat-health-benefits-of-bajra-in-your-winter-diet-keeps-blood-sugar-low-boosts-immunity-helps-you-lose-weight-11772021.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/11/Health-benefits-of-bajra-770x433.jpg",
+      "publishedAt": "2023-11-20T08:00:58Z",
+      "content": "Its that time of the year again when the change in season compels you to change your diet chart. If Punjab's flavour lies in makke ki roti and sarson ka saag, then Rajasthan's defining taste is found… [+4285 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Livelaw.in" },
+      "author": "Awstika Das",
+      "title": "'Four Gujarat Judges Not Transferred' : Supreme Court Disapproves Of Centre's Selective Notification Of... - Live Law - Indian Legal News",
+      "description": "The Supreme Court on Monday (November 20) questioned the central government over its delay in notifying the transfer of certain judges, most of them from the Gujarat High Court, even as it cleared...",
+      "url": "https://www.livelaw.in/top-stories/supreme-court-judges-appointment-gujarat-high-court-242577",
+      "urlToImage": "https://www.livelaw.in/h-upload/2023/08/04/484616-supreme-court-and-gujarat-high-court.jpg",
+      "publishedAt": "2023-11-20T07:51:33Z",
+      "content": "The Supreme Court on Monday (November 20) questioned the central government over its delay in notifying the transfer of certain judges, most of them from the Gujarat High Court, even as it cleared th… [+9766 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "Watch: Joe Biden, Xi Jinping's Surprise Meet-And Greet At Key Summit - NDTV",
+      "description": "In their first face-to-face meeting in a year, US President Joe Biden met with his Chinese counterpart Xi Jinping last week in San Francisco.",
+      "url": "https://www.ndtv.com/world-news/watch-joe-biden-xi-jinpings-surprise-meet-and-greet-at-key-summit-4588725",
+      "urlToImage": "https://c.ndtvimg.com/2023-11/habbfku_us-china_625x300_20_November_23.jpg",
+      "publishedAt": "2023-11-20T07:14:57Z",
+      "content": "video has now emerged that shows Joe Biden going up to Xi Jingping\r\nIn their first in-person meeting in a year, US President Joe Biden met with his Chinese counterpart Xi Jinping last week in San Fra… [+1610 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Livemint" },
+      "author": "Sounak Mukhopadhyay",
+      "title": "Tiger 3 Box Office collection Day 8: Salman Khan’s movie roars despite World Cup fever | Mint - Mint",
+      "description": "Tiger 3 Box Office collection Day 8: Despite the cricketing spectacle of the India vs Australia ICC World Cup final, Salman Khan's movie has maintained a firm grip on the Box Office.",
+      "url": "https://www.livemint.com/industry/media/tiger-3-box-office-collection-day-8-salman-khan-s-movie-roars-despite-world-cup-fever-11700462618972.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/11/20/1600x900/Tiger_3_Salman_1700462946689_1700462953197.png",
+      "publishedAt": "2023-11-20T06:54:25Z",
+      "content": "Tiger 3 Box Office collection Day 8: Tiger 3 has managed to maintain a firm grip on the Box Office despite the cricketing spectacle of the India vs Australia ICC World Cup final. Early estimates sugg… [+2412 chars]"
+    },
+    {
+      "source": { "id": "the-hindu", "name": "The Hindu" },
+      "author": "The Hindu",
+      "title": "Ind vs Aus Final | Virat Kohli bags ‘Fielder of the Match’ award following T. Dilip’s moving speech - The Hindu",
+      "description": null,
+      "url": "https://www.thehindu.com/sport/cricket/icc-world-cup/ind-vs-aus-final-virat-kohli-bags-fielder-of-the-match-award-following-t-dilips-moving-speech/article67553451.ece",
+      "urlToImage": null,
+      "publishedAt": "2023-11-20T06:44:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Gadgets360.com" },
+      "author": "David Delima, Siddharth Suvarna",
+      "title": "WhatsApp AI Chats Shortcut Rolling Out to Some Beta Testers Alongside Status Filters - Gadgets 360",
+      "description": "WhatsApp is testing a visual change that will improve the discoverability of its upcoming artificial intelligence (AI) chats feature. Meta's AI-powered assistants are currently available to some users in the US. WhatsApp has also begun testing a new section f…",
+      "url": "https://www.gadgets360.com/apps/news/whasapp-ai-chats-shortcut-android-beta-status-update-list-4588564",
+      "urlToImage": "https://i.gadgets360cdn.com/large/whatsapp_pexels_anton_1699264870082.jpg",
+      "publishedAt": "2023-11-20T06:15:16Z",
+      "content": "WhatsApp has begun rolling out a visual change designed to improve the experience of using the upcoming artificial intelligence (AI) chats feature on the messaging platform. Earlier this year, the Me… [+2192 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Editorji.com" },
+      "author": "Editorji News Desk",
+      "title": "Quordle 665 hints and answer Today 20 November 2023: Solve today's word puzzle with ease - Editorji",
+      "description": "Experience the unique challenge of Quordle 665, a word puzzle game that tests your vocabulary and problem-solving skills with interconnected puzzles and helpful hints.",
+      "url": "https://www.editorji.com/tech-news/quordle-665-hints-and-answer-today-20-november-2023-solve-today-s-word-puzzle-with-ease-1700459181555",
+      "urlToImage": "https://cdn.editorji.com/cVvgeIlXt1.jpg",
+      "publishedAt": "2023-11-20T05:46:21Z",
+      "content": "The latest iteration, Quordle 665, released on November 20, continues to captivate its audience. Its unique format, different from traditional word puzzles, offers interconnected riddles that amplify… [+1528 chars]"
+    },
+    {
+      "source": { "id": "the-hindu", "name": "The Hindu" },
+      "author": "The Hindu",
+      "title": "Turkish cargo ship with 12 crew members sinks in Black Sea - The Hindu",
+      "description": null,
+      "url": "https://www.thehindu.com/news/international/turkish-cargo-ship-with-12-crew-members-sinks-in-black-sea/article67553364.ece",
+      "urlToImage": null,
+      "publishedAt": "2023-11-20T05:34:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "India Today" },
+      "author": "Sagay Raj",
+      "title": "5 officials suspended after woman, her infant daughter electrocuted in Bengaluru - India Today",
+      "description": "Karnataka Energy Minister KJ George directed Bescom to suspend five officials in connection with an electrocution incident, in which a 23-year-old woman and her nine-month-old daughter died in Bengaluru.",
+      "url": "https://www.indiatoday.in/cities/bengaluru/story/bengaluru-electrocution-mother-daughter-dead-show-cause-notices-bescom-2465121-2023-11-20",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202311/bengaluru-electrocution-205734461-16x9_0.png?VersionId=BhOl7I1vTCGERf4lEOIXARsfqvwvYKHC",
+      "publishedAt": "2023-11-20T05:32:45Z",
+      "content": "The Bangalore Electricity Supply Company Limited (Bescom) has suspended five of its officials for negligence and issued show-cause notices to two senior officers after a mother and daughter died due … [+977 chars]"
+    },
+    {
+      "source": { "id": null, "name": "wknd." },
+      "author": null,
+      "title": "Indian rupee trades in narrow range against UAE dirham - Khaleej Times",
+      "description": "Forex traders say sustained foreign fund outflows and rising crude oil prices weighed on investor sentiments",
+      "url": "https://www.khaleejtimes.com/business/currency-exchange/indian-rupee-trades-in-narrow-range-against-uae-dirham-2",
+      "urlToImage": "https://image.khaleejtimes.com?uuid=fe032393-e84f-4ffa-9d48-99ba15334dae&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.96&x=0&y=0&width=1200&height=675.jpg",
+      "publishedAt": "2023-11-20T05:20:35Z",
+      "content": "Published: Mon 20 Nov 2023, 9:20 AM\r\nThe rupee was trading in a narrow range against the US dollar in early trade on Monday, amid a negative trend in domestic equities.\r\nForex traders said the rupee … [+427 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "etimes.in",
+      "title": "Vijay starrer 'Leo' makes a re-entry on several big screens - IndiaTimes",
+      "description": "'Leo' is having a solid run in theatres, and the film has entered into fifth week of theatrical run. Vijay's film has got additional screens as a few",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijay-starrer-leo-makes-a-re-entry-on-several-big-screens/articleshow/105283609.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-105283609,width-1070,height-580,imgsize-256085,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-20T05:09:58Z",
+      "content": "Leo | Tamil Song - Im Scared (Lyrical)"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "TOI Sports Desk",
+      "title": "World Cup: Team India breaks down in dressing room; Rahul Dravid says 'it was tough to see' - IndiaTimes",
+      "description": "Cricket News: Amid scenes of emotional distress, Indian players were seen leaving the field with tears in their eyes after losing the ODI World Cup final to Austral",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/world-cup-team-india-breaks-down-in-dressing-room-rahul-dravid-says-it-was-tough-to-see/articleshow/105342860.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-105343289,width-1070,height-580,imgsize-78674,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-20T03:33:00Z",
+      "content": "Australia beat India by 6 wickets, win record-extending 6th title | World Cup 2023 Final | INDvsAUS"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": null,
+      "title": "Akshay Kumar's 'Khatta Meetha' co-star Trisha Krishnan calls 'Leo' actor Mansoor Ali Khan 'pathetic', slams him for 'sexist' remark - Times of India",
+      "description": "Actress Trisha Krishnan, who made her Bollywood debut in 2010 opposite Akshay Kumar with 'Khatta Meetha', has slammed her 'Leo' co-star Mansoor Ali Khan for his 'bedroom' and 'rape scenes' remark. Trisha recently took to her social media handle and expressed …",
+      "url": "https://timesofindia.indiatimes.com/videos/etimes/bollywood/akshay-kumars-khatta-meetha-co-star-trisha-krishnan-calls-leo-actor-mansoor-ali-khan-pathetic-slams-him-for-sexist-remark/videoshow/105342933.cms",
+      "urlToImage": "https://timesofindia.indiatimes.com/photo/msid-105342933,imgsize-69410.cms",
+      "publishedAt": "2023-11-20T03:20:02Z",
+      "content": "Nov 20, 2023, 08:50AM ISTSource: etimes.inActress Trisha Krishnan, who made her Bollywood debut in 2010 opposite Akshay Kumar with 'Khatta Meetha', has slammed her 'Leo' co-star Mansoor Ali Khan for … [+1614 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "Huge Fire, Blasts At Visakhapatnam Fishing Harbour, 23 Boats Turn To Ash - NDTV",
+      "description": "About 23 fishing boats turned to ashes in a massive fire at a fishing harbour in Visakhapatnam last night. The estimated loss in the shocking incident is Rs 30 crore.",
+      "url": "https://www.ndtv.com/india-news/23-fishing-boats-turn-to-ash-in-massive-fire-at-visakhapatnam-harbour-4588193",
+      "urlToImage": "https://c.ndtvimg.com/2023-11/8fl9a9l8_harbour-fire_625x300_20_November_23.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20231016.06",
+      "publishedAt": "2023-11-20T01:48:47Z",
+      "content": "Blasts in some the boats, apparently caused by the fire reaching fuel tanks, led to panic\r\nVisakhapatnam: About 23 fishing boats turned to ashes in a massive fire at a harbour in Visakhapatnam last n… [+837 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Siasat Daily" },
+      "author": "Indo-Asian News Service",
+      "title": "Qatar presents Israel with ‘2 suggestions’ on hostage deal with Hamas: Source - The Siasat Daily",
+      "description": "Gaza: A Palestinian source has said that Qatar presented Israel with \"two suggestions\" on the hostage deal with Hamas. The source, who requested anonymity, told Xinhua news agency on Sunday that the first suggestion is for Hamas to release 53 children and wom…",
+      "url": "https://www.siasat.com/qatar-presents-israel-with-2-suggestions-on-hostage-deal-with-hamas-source-2914898/",
+      "urlToImage": "https://cdn.siasat.com/wp-content/uploads/2023/10/Hamas-releases-two-elderly-hotages.jpg",
+      "publishedAt": "2023-11-20T01:45:08Z",
+      "content": "Gaza: A Palestinian source has said that Qatar presented Israel with “two suggestions” on the hostage deal with Hamas.\r\nThe source, who requested anonymity, told Xinhua news agency on Sunday that the… [+1475 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Save Bubble",
+      "title": "Best Black Friday Bose Deals 2023: Top Early Headphones, Soundbar, Speaker & More Deals Rounded Up by Save Bubble - Yahoo Finance",
+      "description": "Check out our guide to the top early Bose deals for Black Friday, including the top savings on noise canceling headphones, smart soundbars, Bluetooth...",
+      "url": "https://finance.yahoo.com/news/best-black-friday-bose-deals-160000081.html",
+      "urlToImage": "https://media.zenfs.com/en/accesswire.ca/26c07f204c7e752eb68ec42b0528ed56",
+      "publishedAt": "2023-11-19T16:00:00Z",
+      "content": "Check out our guide to the top early Bose deals for Black Friday, including the top savings on noise canceling headphones, smart soundbars, Bluetooth speakers &amp; more\r\nBOSTON, MA / ACCESSWIRE / No… [+930 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SciTechDaily" },
+      "author": null,
+      "title": "NISAR's Odyssey: Pioneering Earth-Observing Satellite Clears Crucial Test - SciTechDaily",
+      "description": "During three weeks in a thermal vacuum chamber in Bengaluru, India, the joint NASA-ISRO satellite demonstrated its hardiness in a harsh, space-like environment. NISAR, the trailblazing Earth-observing radar satellite being developed by the United States and I…",
+      "url": "https://scitechdaily.com/?p=329199",
+      "urlToImage": "https://scitechdaily.com/images/NASA-NISAR-Orbit-Illustration-scaled.jpg",
+      "publishedAt": "2023-11-19T13:28:33Z",
+      "content": "ByJet Propulsion LaboratoryNovember 19, 2023\r\nAfter it launches in early 2024, NISAR will scan nearly all of the planets land and ice twice every 12 days. In orbit, the satellite will extend its sola… [+3131 chars]"
     },
     {
       "source": { "id": null, "name": "Livemint" },
@@ -133,254 +373,14 @@
       "content": "Chandrayaan-3 was a grand success. Now, the Indian Space Research Organisation (ISRO) is focusing on their next project, Chandrayaan-4. This mission aims to bring back soil samples from the Moon. Thi… [+2056 chars]"
     },
     {
-      "source": { "id": null, "name": "Business Standard" },
-      "author": "Business Standard",
-      "title": "LIVE: Air pollution levels down in Delhi but need to be vigilant, says Rai - Business Standard",
-      "description": null,
-      "url": "https://www.business-standard.com/india-news/live-akasa-issues-travel-advisory-ahead-of-world-cup-final-in-ahmedabad-123111900084_1.html",
-      "urlToImage": null,
-      "publishedAt": "2023-11-19T08:24:16Z",
-      "content": null
-    },
-    {
-      "source": { "id": "the-times-of-india", "name": "The Times of India" },
-      "author": "TOI Sports Desk",
-      "title": "'Expect it to turn a bit...': Ravi Shastri predicts spin-friendly pitch for World Cup final - IndiaTimes",
-      "description": "Cricket News: Ravi Shastri, former India cricketer and coach, has provided insights into the pitch conditions for the ICC ODI World Cup final between India and Aust",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/expect-it-to-turn-a-bit-ravi-shastri-predicts-spin-friendly-pitch-for-world-cup-final/articleshow/105329061.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-105329123,width-1070,height-580,imgsize-53228,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-19T08:05:00Z",
-      "content": null
-    },
-    {
-      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "source": { "id": null, "name": "Cureus.com" },
       "author": null,
-      "title": "Here's how Shah Rukh Khan reacted when Anant Ambani dropped a snake on his hands - Times of India",
-      "description": "Shah Rukh Khan and many other celebrities attended Mukesh Ambani and Nita Ambani's grandkids' birthday bash. Now, visuals of Anant Ambani and Radhika Merchant putting a snake on SRK's hands and one around his neck have gone viral on social media. While the tw…",
-      "url": "https://timesofindia.indiatimes.com/videos/etimes/bollywood/heres-how-shah-rukh-khan-reacted-when-anant-ambani-dropped-a-snake-on-his-hands/videoshow/105328968.cms",
-      "urlToImage": "https://timesofindia.indiatimes.com/photo/msid-105328968,imgsize-49954.cms",
-      "publishedAt": "2023-11-19T07:59:06Z",
-      "content": "Nov 19, 2023, 01:29PM ISTSource: etimes.inShah Rukh Khan and many other celebrities attended Mukesh Ambani and Nita Ambani's grandkids' birthday bash. Now, visuals of Anant Ambani and Radhika Merchan… [+373 chars]"
-    },
-    {
-      "source": { "id": null, "name": "Free Press Journal" },
-      "author": "Staff Reporter",
-      "title": "Pune: 71-Year-Old Suspected Zika Patient In City Hospital Stable - Free Press Journal",
-      "description": "The District Malaria Officer, Vijay Bagal, has affirmed that the Health Department in Solapur is well-prepared to provide necessary services in response to this potential Zika case.",
-      "url": "https://www.freepressjournal.in/pune/pune-71-year-old-suspected-zika-patient-in-city-hospital-stable",
-      "urlToImage": "https://gumlet.assettype.com/freepressjournal/2023-08/774d8bef-9661-4f71-9a6b-0a3dbb9089e7/zika_virus_testing_main.jpg",
-      "publishedAt": "2023-11-19T07:54:02Z",
-      "content": "In Pune, a 71-year-old resident from Pandharpur, Solapur district, Maharashtra, is currently undergoing treatment for a suspected case of Zika and is reported to be in stable condition. The District … [+1158 chars]"
-    },
-    {
-      "source": { "id": null, "name": "Livemint" },
-      "author": "Livemint",
-      "title": "‘US will continue to work hard’, White House dismisses reports of Israel-Hamas deal to free hostages in Gaza | Mint - Mint",
-      "description": "The White House dismisses reports of a US-brokered deal between Israel and Hamas to free hostages in Gaza.",
-      "url": "https://www.livemint.com/news/world/us-will-continue-to-work-hard-white-house-dismisses-reports-of-israel-hamas-deal-to-free-hostages-in-gaza-11700375943169.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/11/19/1600x900/BIDEN-JULY-4TH-8_1688510975315_1700379126902.jpg",
-      "publishedAt": "2023-11-19T07:35:10Z",
-      "content": "The White House on Saturday dismissed the reports of a US-brokered deal between Israel and Hamas that would potentially free dozens of women and children held hostage in Gaza in exchange for a five-d… [+2014 chars]"
-    },
-    {
-      "source": { "id": null, "name": "Livemint" },
-      "author": "Livemint",
-      "title": "Leo actor Trisha Krishnan calls Mansoor Ali Khan ‘pathetic’ for 'bedroom', ‘rape scenes’ remark | Mint - Mint",
-      "description": "Soon after the video went viral, Krishnan took to social media platform X, to express her displeasure",
-      "url": "https://www.livemint.com/news/india/leo-actor-trisha-krishnan-calls-mansoor-ali-khan-pathetic-for-bedroom-rape-scenes-remark-11700371499511.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/11/19/1600x900/leo_1697025104409_1700372474938.png",
-      "publishedAt": "2023-11-19T07:30:54Z",
-      "content": "Actor Trisha Krishnan and 'Leo' director Lokesh Kanagaraj have called out actor Mansoor Ali Khan for his bedroom scenes' and rape scene remark. Trisha Krishnan took to X (formerly Twitter) and called… [+1758 chars]"
-    },
-    {
-      "source": { "id": null, "name": "NDTV News" },
-      "author": null,
-      "title": "'Dhoom' Director Sanjay Gadhvi Dies At 56, Family Suspects Heart Attack - NDTV",
-      "description": "\"Dhoom\" director Sanjay Gadhvi died on Sunday morning at his residence here, his elder daughter Sanjina said. He was 56.",
-      "url": "https://www.ndtv.com/india-news/sanjay-gadhvi-dies-dhoom-director-sanjay-gadhvi-dies-at-56-family-suspects-heart-attack-4586628",
-      "urlToImage": "https://c.ndtvimg.com/2023-11/euipeips_sanjay-gadhvi_625x300_19_November_23.jpg",
-      "publishedAt": "2023-11-19T07:01:33Z",
-      "content": "New Delhi: \"Dhoom\" director Sanjay Gadhvi died on Sunday morning at his residence here, his elder daughter Sanjina said. He was 56.\r\nGadhvi, who was three days shy away from his 57th birthday, is bes… [+714 chars]"
-    },
-    {
-      "source": { "id": null, "name": "NDTV News" },
-      "author": null,
-      "title": "Why New Maldives President Wants Indian Troops Out Of The Island Nation? - NDTV",
-      "description": "Addressing the inauguration event on his elevation as the president of the Maldives, Mohamed Muizzu said he will ensure that the small Island nation \"has no foreign military presence on its soil\".",
-      "url": "https://www.ndtv.com/india-news/india-maldives-ties-kiren-rijiju-mohamed-muizzu-why-new-maldives-president-wants-indian-troops-out-of-the-island-nation-4586485",
-      "urlToImage": "https://c.ndtvimg.com/2023-11/lnc9ralg_maldives-prez-meeting_625x300_19_November_23.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20231016.06",
-      "publishedAt": "2023-11-19T05:27:59Z",
-      "content": "Union Minister met President of the Maldives Mohamed Muizzu soon after his inauguration\r\nNew Delhi: Addressing the inauguration event on his elevation as the president of the Maldives, Mohamed Muizzu… [+3646 chars]"
-    },
-    {
-      "source": { "id": null, "name": "NDTV News" },
-      "author": null,
-      "title": "How Amazon, Apple, Google, Meta Generated Billions In Fines, But Didn't Pay Them - NDTV",
-      "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
-      "url": "https://www.ndtv.com",
-      "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
-      "publishedAt": "2023-11-19T05:24:49Z",
-      "content": null
-    },
-    {
-      "source": { "id": null, "name": "Hindustan Times" },
-      "author": "Sumanti Sen",
-      "title": "Fans shocked as video shows Taylor Swift gasping for air during Brazil Eras Tour - Hindustan Times",
-      "description": "The clip shows Taylor Swift seemingly struggling to breathe after singing ‘Bejeweled",
-      "url": "https://www.hindustantimes.com/entertainment/music/fans-shocked-as-scary-video-shows-taylor-swift-seemingly-gasping-for-air-during-brazil-eras-tour-this-is-so-worrisome-101700369827990.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/19/1600x900/Taylor_1700370437787_1700370438704.jpg",
-      "publishedAt": "2023-11-19T05:08:54Z",
-      "content": "A fan video appears to show Taylor Swift gasping for air while performing in Rio de Janeiro, Brazil, on Friday, November 17. The clip shows the star seemingly struggling to breathe after singing Beje… [+2166 chars]"
-    },
-    {
-      "source": { "id": null, "name": "Livemint" },
-      "author": "Vaamanaa Sethi",
-      "title": "IPOs This Week: Dalal Street to remain buzzing as 6 new companies gear up to raise ₹7,300 crore; check full list here | Mint - Mint",
-      "description": "The primary market is all set to be buzzing in the coming week as six new companies are tapping Dalal Street to raise over  ₹ 7,300 crore via initial public offering (IPO).",
-      "url": "https://www.livemint.com/market/stock-market-news/ipos-this-week-dalal-street-to-remain-buzzing-as-6-new-companies-gear-up-to-raise-7-300-crore-check-full-list-here-11700364869035.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/11/19/1600x900/ipo_1700365160116_1700365160237.jpg",
-      "publishedAt": "2023-11-19T03:45:22Z",
-      "content": "The primary market is all set to be buzzing in the coming week as six new companies are tapping Dalal Street to raise over 7,300 crore via initial public offering (IPO). Tata Technologies and Indian … [+4281 chars]"
-    },
-    {
-      "source": { "id": null, "name": "EastMojo" },
-      "author": "Medolenuo Ambrocia",
-      "title": "Nagaland targets measles, rubella elimination by year-end - EastMojo",
-      "description": "Kohima: Nagaland's health and family welfare department, on Saturday shared its commitment to achieve Measles-Rubella elimination by year end. \"The goal",
-      "url": "http://www.eastmojo.com/nagaland/2023/11/19/nagaland-targets-measles-rubella-elimination-by-year-end/",
-      "urlToImage": "https://i0.wp.com/www.eastmojo.com/wp-content/uploads/2021/06/vaccination-2722937_1920.jpg?fit=1920%2C1280&ssl=1",
-      "publishedAt": "2023-11-19T03:30:00Z",
-      "content": "<ul><li>Get the latest news and updates from across Northeast India delivered to your WhatsApp</li><li>Stay ahead with breaking news from Northeast</li><li>Join a community of engaged readers who are… [+4914 chars]"
-    },
-    {
-      "source": { "id": null, "name": "Moneycontrol" },
-      "author": "Sunil Shankar Matkar",
-      "title": "Dalal Street Week Ahead | FOMC minutes, crude prices, FII flow and all that will dictate D-St next week - Moneycontrol",
-      "description": "Experts expect the positive sentiment in the markets to sustain in the coming week too, with focus on the US bond yields and oil prices, and advised continuing with the buy-on-dips strategy",
-      "url": "https://www.moneycontrol.com/news/business/markets/dalal-street-week-ahead-fomc-minutes-crude-prices-fii-flow-and-all-that-will-dictate-d-st-next-week-11766411.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/08/markets15-770x435.jpg",
-      "publishedAt": "2023-11-19T03:04:14Z",
-      "content": "The markets kept up the rally for the third straight week ended November 17 with a 1 percent gain, despite banking and financial stocks being beaten by the Reserve Bank of India's move to raise the r… [+9049 chars]"
-    },
-    {
-      "source": { "id": null, "name": "msnNOW" },
-      "author": null,
-      "title": "WhatsApp may soon get a cute little chatbot button to let you talk to Meta AI - msnNOW",
-      "description": null,
-      "url": "https://www.msn.com/en-in/money/news/whatsapp-may-soon-get-a-cute-little-chatbot-button-to-let-you-talk-to-meta-ai/ar-AA1k8rmk?ocid=finance-verthp-feeds",
-      "urlToImage": null,
-      "publishedAt": "2023-11-19T02:50:41Z",
-      "content": null
-    },
-    {
-      "source": { "id": null, "name": "Deccan Herald" },
-      "author": "Arundhati Nath",
-      "title": "Journeys into light - Deccan Herald",
-      "description": "Journeys into light",
-      "url": "https://www.deccanherald.com/specials/journeys-into-light-2774898",
-      "urlToImage": "https://images.deccanherald.com/deccanherald%2F2023-11%2Fdc75a971-b81a-4061-acb0-d3aaac6ad1ca%2Ffile7su9w0rautv3uysfeiq__1_.jpg?rect=0%2C0%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "publishedAt": "2023-11-19T02:42:15Z",
-      "content": "Over the next few days, we were taught safety precautions while lighting the gas stove, boiling water, chopping vegetables and feeling the items by hand even though we didnt see them. From preparing … [+213 chars]"
-    },
-    {
-      "source": { "id": null, "name": "DAWN.com" },
-      "author": "Aizaz Ahmad Chaudhry",
-      "title": "Issue of refugees - DAWN.com",
-      "description": "The debate has begun to affect the overall trajectory of Pak-Afghan ties.",
-      "url": "https://www.dawn.com",
-      "urlToImage": "https://i.dawn.com/large/2023/11/655970b90e6ee.jpg",
-      "publishedAt": "2023-11-19T02:20:29Z",
-      "content": "HUNDREDS of thousands of undocumented Afghan refugees are returning to their country. In principle, it makes perfect sense. No country allows illegal foreign nationals to stay on its land. Pakistan, … [+4730 chars]"
-    },
-    {
-      "source": { "id": "the-times-of-india", "name": "The Times of India" },
-      "author": "Pathikrit Chakraborty",
-      "title": "UP bans ‘halal-certified’ food products - Times of India",
-      "description": "The Uttar Pradesh government has implemented a ban on the production, storage, distribution, and sale of \"halal-certified\" food products within the st",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/up-bans-halal-certified-food-products/articleshow/105321618.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-105321618,width-1070,height-580,imgsize-37008,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-19T00:05:00Z",
-      "content": "10 biggest K-Beauty trends of 2023"
-    },
-    {
-      "source": { "id": null, "name": "Forbes" },
-      "author": "Kris Holt",
-      "title": "Today’s ‘Quordle’ Hints And Answers For Sunday, November 19 - Forbes",
-      "description": "Looking for some help with Sunday's Quordle words? Some hints and the answers are right here.",
-      "url": "https://www.forbes.com/sites/krisholt/2023/11/18/todays-quordle-hints-and-answers-for-sunday-november-19/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6291a131931aec2d6b6222c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2023-11-18T23:15:40Z",
-      "content": "Quordle game displayed on a phone screen is seen in this illustration photo taken in Krakow, Poland ... [+] on February 21, 2022. Quordle is a new word game that is an alternative to Wordle. (Photo b… [+1686 chars]"
-    },
-    {
-      "source": { "id": "the-times-of-india", "name": "The Times of India" },
-      "author": "TNN",
-      "title": "Dell, HP, 25 other companies get approval for IT hardware PLI scheme - IndiaTimes",
-      "description": "India News: 27 companies, including global Dell, HP, Foxconn, and Lenovo, and local Optiemus, Padget, and VVDN, have been granted approval under the upgraded Rs 1",
-      "url": "https://timesofindia.indiatimes.com/india/dell-hp-25-other-companies-get-approval-for-it-hardware-pli-scheme/articleshow/105320898.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-105327121,width-1070,height-580,imgsize-62322,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-18T22:25:00Z",
-      "content": "10 biggest K-Beauty trends of 2023"
-    },
-    {
-      "source": { "id": "the-hindu", "name": "The Hindu" },
-      "author": "The Hindu",
-      "title": "Why are people fleeing Myanmar for Mizoram? | Explained - The Hindu",
-      "description": null,
-      "url": "https://www.thehindu.com/news/international/why-are-people-fleeing-myanmar-for-mizoram-explained/article67548631.ece",
-      "urlToImage": null,
-      "publishedAt": "2023-11-18T22:06:00Z",
-      "content": null
-    },
-    {
-      "source": { "id": "reuters", "name": "Reuters" },
-      "author": "Andreas Rinke",
-      "title": "Exclusive: Germany, France and Italy reach agreement on future AI regulation - Reuters",
-      "description": "An agreement on how artificial intelligence should be regulated in the future has been reached by Germany, France and Italy, according to a joint paper seen by Reuters, which is expected to accelerate negotiations at the European level.",
-      "url": "https://www.reuters.com/technology/germany-france-italy-reach-agreement-future-ai-regulation-2023-11-18/",
-      "urlToImage": "https://www.reuters.com/resizer/FjNA_IEQJBZGiTJsKXD9ERmA3eg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FB2KTCWAXZLAJJA23CNLKH6DMU.jpg",
-      "publishedAt": "2023-11-18T20:22:00Z",
-      "content": "BERLIN, Nov 18 (Reuters) - An agreement on how artificial intelligence should be regulated in the future has been reached by Germany, France and Italy, according to a joint paper seen by Reuters, whi… [+2150 chars]"
-    },
-    {
-      "source": { "id": null, "name": "Eurasiantimes.com" },
-      "author": "Ashish Dangwal",
-      "title": "1st Nation To Establish Lunar Base, US Says China Could ‘Outpace’ NASA In Race To Moon - EurAsian Times",
-      "description": "US intelligence has publicly expressed apprehensions about China potentially outpacing the United States in the race to send humans back to the moon and establish a lunar outpost, according to reports. Washington and Beijing are actively competing for an edge…",
-      "url": "https://www.eurasiantimes.com/china-outpacing-nasa-in-space/",
-      "urlToImage": "https://www.eurasiantimes.com/wp-content/uploads/2022/06/nasa-scaled-e1655790841294.jpg",
-      "publishedAt": "2023-11-18T16:10:43Z",
-      "content": "US intelligence has publicly expressed apprehensions about China potentially outpacing the United States in the race to send humans back to the moon and establish a lunar outpost, according to report… [+4723 chars]"
-    },
-    {
-      "source": { "id": null, "name": "Newstrailindia.com" },
-      "author": null,
-      "title": "NEWS TRAIL - News Trail",
-      "description": null,
-      "url": "https://newstrailindia.com/inner.php?id=18159",
-      "urlToImage": "https://newstrailindia.com/uploads/article_image_uploads/photos_116558d607c3a6d_1700320775_370x270.jpg",
-      "publishedAt": "2023-11-18T15:19:42Z",
-      "content": "Bengaluru, NT Bureau: The US space agency NASA and its Indian counterpart ISRO have held discussions on potential opportunities for future cooperation in space exploration.\r\nNASA Jet Propulsion Labor… [+1157 chars]"
-    },
-    {
-      "source": { "id": null, "name": "The Weather Channel" },
-      "author": "The Weather Channel",
-      "title": "NASA Sends Data Beyond Moon, Paving Way for Advanced Deep Space Optical Communications | Weather.com - The Weather Channel",
-      "description": "While optical communication has been demonstrated in low Earth orbit and out to the moon, DSOC is the first test in deep space.",
-      "url": "https://weather.com/en-IN/india/space/news/2023-11-18-nasa-sends-data-beyond-moon-paving-way-for-advanced-deep-space-optical",
-      "urlToImage": "https://s.w-x.co/in-deep_space.jpg",
-      "publishedAt": "2023-11-18T11:39:20Z",
-      "content": "NASA's Deep Space Optical Communications (DSOC) experiment, aboard the recently launched Psyche spacecraft, has achieved \"first light,\" sending data via laser to and from far beyond the moon for the … [+2517 chars]"
-    },
-    {
-      "source": { "id": null, "name": "Business Standard" },
-      "author": "ANI",
-      "title": "Antimicrobial resistance a significant threat to global public health: WHO - Business Standard",
-      "description": "Poonam Khetrapal Singh called it imperative to foster collaboration among many sectors and stakeholders involved in the domains of human, terrestrial, and aquatic animal and plant health",
-      "url": "https://www.business-standard.com/world-news/antimicrobial-resistance-a-significant-threat-to-global-public-health-who-123111800445_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-07/12/full/1594529872-4234.jpg",
-      "publishedAt": "2023-11-18T11:04:51Z",
-      "content": "As World Antimicrobial Awareness Week commenced on Saturday, WHO Regional Director for Southeast Asia Poonam Khetrapal Singh said that antimicrobial resistance (AMR) continues to pose a significant c… [+4616 chars]"
+      "title": "A Brief Review of Diagnostic Techniques and Clinical Management in Chronic Kidney Disease - Cureus",
+      "description": "Given its increasing incidence and detrimental effects on life expectancy and quality of life, chronic kidney disease (CKD) is a significant worldwide health concern. This review article provides a complete summary of current information on the diagnosis and …",
+      "url": "https://www.cureus.com/articles/196508-a-brief-review-of-diagnostic-techniques-and-clinical-management-in-chronic-kidney-disease?score_article=true",
+      "urlToImage": "https://assets.cureus.com/uploads/figure/file/804826/article_river_c972ef4077db11ee839419f87899721e-PRISMA_2020_flow_diagram_new_SRs_v1-1-.png",
+      "publishedAt": "2023-11-19T07:07:22Z",
+      "content": "Enter your email address to receive your free PDF download.\r\nPlease note that by doing so you agree to be added to our monthly email newsletter distribution list."
     }
   ]
 }
