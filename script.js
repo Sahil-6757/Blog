@@ -17,8 +17,9 @@ async function loadDoc() {
         </p>
         <a href="${element.url}" class="btn btn-primary mx-5">Read More</a>
         <div class="d-flex justify-content-center">
-        <p class="text-center text-danger">Source: ${element.source.name}</p>
+        <p class="text-center text-danger">Source: ${element.source.name}</p> 
         </div>
+        <p class="text-center text-primary"> ${element.publishedAt}</p>
       </div>
     </div>
   </div>`;
