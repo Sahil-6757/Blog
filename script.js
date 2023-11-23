@@ -19,7 +19,7 @@ async function loadDoc() {
         <div class="d-flex justify-content-center">
         <p class="text-center text-danger">Source: ${element.source.name}</p> 
         </div>
-        <p class="text-center text-primary"> ${element.publishedAt}</p>
+        
       </div>
     </div>
   </div>`;
