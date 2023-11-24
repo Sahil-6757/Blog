@@ -48,8 +48,18 @@
         /* background-color: #f2f2f2; */
         padding: 20px;
       }
-      .progress{
+      .progress {
         margin: auto;
+      }
+      .gform {
+        width: 640;
+        height: 585;
+      }
+      @media only screen and (max-width: 600px) {
+        .gform {
+          width: 340px;
+          /* height: 585; */
+        }
       }
     </style>
     <link
@@ -101,9 +111,18 @@
         </div>
       </div>
     </nav>
-    <div class="container ">
-      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdwlc362KR0OA3sj-eQisEGFLUURdTCcMnfhXRoQTh0_QajHQ/viewform?embedded=true" width="640" height="585" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>   
-<!--         
+    <div class="container">
+      <iframe
+        src="https://docs.google.com/forms/d/e/1FAIpQLSdwlc362KR0OA3sj-eQisEGFLUURdTCcMnfhXRoQTh0_QajHQ/viewform?embedded=true"
+        class="gform"
+        width="640"
+        height="585"
+        frameborder="0"
+        marginheight="0"
+        marginwidth="0"
+        >Loading…</iframe
+      >
+      <!--         
           <label for="lname">Last Name</label>
           <input type="text" id="lname" name="lastname" placeholder="Your last name..">
       
