@@ -3,34 +3,244 @@
   "totalResults": 38,
   "articles": [
     {
-      "source": { "id": null, "name": "Business Standard" },
-      "author": "Business Standard",
-      "title": "Stock Market LIVE: Broader indices firm; Fino Payments up 3%; Paytm down 3% - Business Standard",
-      "description": null,
-      "url": "https://www.business-standard.com/markets/news/stock-market-live-today-nov-24-nse-bse-sensex-nifty-ecb-global-cues-tata-tech-gandhar-oil-123112400068_1.html",
-      "urlToImage": null,
-      "publishedAt": "2023-11-24T06:41:17Z",
-      "content": null
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "HT News Desk",
+      "title": "Himalayan geology not predictable: Experts on Uttarksashi tunnel rescue timeline - Hindustan Times",
+      "description": "Himalayan geology is not a precise science and many roadblocks have come in the way of the multi-agency, 12-day rescue operation, so far. | Latest News India",
+      "url": "https://www.hindustantimes.com/india-news/himalayan-geology-not-predictable-experts-on-uttarkashi-tunnel-rescue-timeline-101700826256648.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/24/1600x900/PTI11-24-2023-000125B-0_1700826405183_1700826445057.jpg",
+      "publishedAt": "2023-11-24T11:50:25Z",
+      "content": "The Himalayan geology is not as predictable as people think, experts said on Friday as the Uttarkashi tunnel rescue operation went on overcoming new hurdles at the last moment. Addressing a press mee… [+1737 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "Oscar Pistorius, Jailed For Girlfriend's Murder In 2013, Gets Early Release - NDTV",
+      "description": "South African Paralympic champion Oscar Pistorius was granted early release from prison on parole on Friday, a decade after he killed his girlfriend, in a crime that gripped the world, prison authorities said.",
+      "url": "https://www.ndtv.com/world-news/oscar-pistorius-jailed-for-girlfriends-murder-granted-early-release-from-prison-4602761",
+      "urlToImage": "https://i.ndtvimg.com/i/2016-06/oscar-pistorius-reuters_650x400_81465802972.jpg",
+      "publishedAt": "2023-11-24T11:31:15Z",
+      "content": "Oscar Pistorius appeared before a parole board at a correctional centre outside Pretoria (File)\r\nPretoria, South Africa: South African Paralympic champion Oscar Pistorius was granted early release fr… [+421 chars]"
     },
     {
       "source": { "id": null, "name": "Hindustan Times" },
-      "author": "HT News Desk",
-      "title": "Israel-Hamas war LIVE Updates: 'Conflict to continue for at least 2 more months' - Hindustan Times",
-      "description": "Israel-Hamas war LIVE Updates: The Israel-Hamas war has been on since October 7, when the latter carried out a series of attacks inside the Israeli territory.",
-      "url": "https://www.hindustantimes.com/world-news/israel-hamas-war-live-updates-november-24-2023-gaza-palestine-benjamin-netanyahu-101700796808369.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/24/1600x900/ISRAEL-PALESTINIANS-GAZA-EMBED-35_1700747319194_1700796818524.JPG",
-      "publishedAt": "2023-11-24T06:32:32Z",
-      "content": "Israel-Hamas war LIVE Updates: A 96-hour truce between Israel and Hamas, brokered by the United States and Qatar, came into effect at 7 am local time (10:30 am IST) on Friday, marking the first break… [+3121 chars]"
+      "author": "HT Tech",
+      "title": "440-foot asteroid, 4 other space rocks predicted by NASA to pass Earth; Know speed, size and mor - HT Tech",
+      "description": "5 asteroids have been predicted to pass Earth at close quarters. NASA has revealed various details about these asteroids such as their speed, size, distance of approach, and more. One is a 440-foot asteroid.",
+      "url": "https://tech.hindustantimes.com/photos/440foot-asteroid-4-other-space-rocks-predicted-by-nasa-to-pass-earth-know-speed-size-and-mor-71700824222085.html",
+      "urlToImage": "https://images.hindustantimes.com/tech/img/2023/11/24/1600x900/g94259f744c86d345088c6d639b0534f7a1c6a050828e4d658_1700824551577_1700824551881.jpg",
+      "publishedAt": "2023-11-24T11:16:44Z",
+      "content": "Top SectionsExplore Tech Copyright © HT Media Limited All rights reserved."
+    },
+    {
+      "source": { "id": null, "name": "Bar & Bench - Indian Legal News" },
+      "author": "Debayan Roy",
+      "title": "Adani-Hindenburg row: Supreme Court reserves verdict, says SEBI cannot be asked to decide based on media reports - Bar & Bench - Indian Legal News",
+      "description": "The Supreme Court on Friday reserved its verdict in a a batch of petitions seeking an examination of allegations of fraud made against Adani Group of companies",
+      "url": "https://www.barandbench.com/news/adani-hindenburg-row-supreme-court-reserves-verdict",
+      "urlToImage": "https://gumlet.assettype.com/barandbench%2F2023-02%2F9fe376b6-dd21-46d6-b263-c3b1591448a4%2F03.jpg?w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true",
+      "publishedAt": "2023-11-24T11:13:14Z",
+      "content": "Appearing for a petitioner, advocate Prashant Bhushan argued today that SEBI's conduct in the matter had not been credible. \r\n\"We have come to the conclusion that the SEBI probe is not credible. They… [+2826 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Livemint" },
+      "author": "Livemint",
+      "title": "Indian planes face GPS spoofing and jamming over Middle East, DGCA issues circular | Mint - Mint",
+      "description": "Reports of GNSS interference in the Middle East airspace have prompted the DGCA to issue a circular with measures to address jamming and spoofing threats. The circular includes the development of contingency procedures, and conducting safety risk assessments.",
+      "url": "https://www.livemint.com/news/world/indian-planes-face-gps-spoofing-and-jamming-over-middle-east-dgca-issues-circular-11700821034848.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/11/24/1600x900/2-0-1455049377-GettyImages-1057990750-0_1679736060657_1700821568064.jpg",
+      "publishedAt": "2023-11-24T11:04:54Z",
+      "content": "India's aviation regulator Directorate General of Civil Aviation (DGCA) has issued a circular for Indian  civilian aircraft operators after reports emerged of interference in the Middle East airspace… [+2634 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "Vaishnawi Sinha",
+      "title": "Gautam Singhania family feud: Raymond stock crumbles as mcap falls - Hindustan Times",
+      "description": "The family feud of billionaire businessman Gautam Singhania has cast a shadow on the shares and market capital of his firm, Raymond Group.",
+      "url": "https://www.hindustantimes.com/business/gautam-singhania-family-feud-raymond-stock-crumbles-as-mcap-falls-below-rs-11k-crore-nawaz-modi-divorce-101700820675775.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/24/1600x900/Singhania-s-announcement-through-a-post-on-Instagr_1699903415835_1700820861294.jpg",
+      "publishedAt": "2023-11-24T10:30:10Z",
+      "content": "Raymond Group managing director Gautam Singhania and estranged wife Nawaz Modi Singhania are currently in the process of finalising their divorce settlement, with the public ordeal now having a negat… [+1864 chars]"
     },
     {
       "source": { "id": null, "name": "News18" },
       "author": "Sanstuti Nath",
-      "title": "Raymond Founder Vijaypat Singhania Talks About Son, His ‘Stupid Mistake’ & Gautam's Divorce Battle - News18",
-      "description": "Vijaypat has accused Gautam of driving him out of his family property in south Mumbai's JK House in 2017",
-      "url": "https://www.news18.com/india/raymond-founder-vijaypat-singhania-on-estranged-gautam-singhania-stupid-mistake-nawaz-modi-divorce-8674385.html",
-      "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/11/vijaypat-singhania-1-2023-11-ca965d001dbd62e9aeb1f1fa3537cb5d-16x9.jpg?impolicy=website&width=1200&height=675",
-      "publishedAt": "2023-11-24T06:16:57Z",
-      "content": "Vijaypat Singhania, Raymond Group founder, is deeply disappointed to witness his son Gautam Singhania breaking up the company and lamented his stupid mistake of giving away everything to his son. The… [+4890 chars]"
+      "title": "More Trouble For Mahua Moitra? Report Says TMC MP's Parl ID Accessed From 3 Places, Including US - News18",
+      "description": "Apart from Dubai, Moitra's login credentials were used from New Jersey in the US and Bengaluru as well, when the TMC MP was in Kolkata and then in Delhi on the same day, sources said",
+      "url": "https://www.news18.com/politics/mahua-moitra-cash-for-query-row-tmc-mp-parliament-id-accessed-from-3-places-us-dubai-government-sources-8674670.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/10/mahua-moitra-2023-10-54426f8f1b2e62876d26e56e202c14dc-16x9.jpg?impolicy=website&width=1200&height=675",
+      "publishedAt": "2023-11-24T10:20:17Z",
+      "content": "Trouble seems to be mounting for Mahua Moitra in the cash-for-query row, with the latest report claiming that the Trinamool Congress MPs Parliament login ID was not just accessed from Dubai, but two … [+1548 chars]"
+    },
+    {
+      "source": { "id": "the-hindu", "name": "The Hindu" },
+      "author": "The Hindu",
+      "title": "Europe’s new Ariane 6 rocket passes launch rehearsal: ESA - The Hindu",
+      "description": null,
+      "url": "https://www.thehindu.com/sci-tech/science/europes-new-ariane-6-rocket-passes-launch-rehearsal-esa/article67569350.ece",
+      "urlToImage": null,
+      "publishedAt": "2023-11-24T10:05:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "India Says Closely Monitoring Respiratory Illness Outbreak In China - NDTV",
+      "description": "The Health Ministry said it is closely monitoring outbreaks of H9N2 (Avian influenza virus) cases and clusters of respiratory illness in children in northern China.",
+      "url": "https://www.ndtv.com/india-news/india-says-closely-monitoring-respiratory-illness-outbreak-in-china-4602378",
+      "urlToImage": "https://c.ndtvimg.com/2023-11/e8ul6shg_china-reuters_625x300_23_November_23.jpeg",
+      "publishedAt": "2023-11-24T09:52:56Z",
+      "content": "There is a low risk to India from both the avian influenza cases, the ministry said (File)\r\nNew Delhi: The Health Ministry said it is closely monitoring outbreaks of H9N2 (Avian influenza virus) case… [+2074 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "Reuters",
+      "title": "China allows visa-free entry to French, German, Italian travelers - Hindustan Times",
+      "description": "China has been taking steps in recent months - including restoring international flight routes - to revive its tourism sector | World News",
+      "url": "https://www.hindustantimes.com/world-news/china-allows-visa-free-entry-to-french-german-italian-travelers-to-boost-tourism-101700819073580.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/24/1600x900/Cambodia-New-Airport-2_1700819201266_1700819350598.jpg",
+      "publishedAt": "2023-11-24T09:51:28Z",
+      "content": "China will temporarily exempt citizens of France, Germany, Italy, the Netherlands, Spain and Malaysia from needing visas to visit the world's second-largest economy in a bid to give a boost to post-p… [+2142 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Odishatv.in" },
+      "author": "Poonam Singh",
+      "title": "Katrina Kaif was on brink of cancelling wedding, reveals Vicky Kaushal - OTV News",
+      "description": "In response, Katrina threatened to cancel the wedding if he had to return for the shoot after two days of the marriage.",
+      "url": "https://odishatv.in/news/entertainment/katrina-kaif-was-on-brink-of-cancelling-wedding-reveals-vicky-kaushal-220987",
+      "urlToImage": "https://images.odishatv.in/uploadimage/library/16_9/16_9_0/recent_photo_1700819335.webp",
+      "publishedAt": "2023-11-24T09:50:49Z",
+      "content": "Katrina Kaif and Vicky Kaushal stand out as a power couple, however, Vicky recently unveiled a surprising twist in their journey to marital bliss which was almost cancelled by the actress. \r\nIn a rec… [+1368 chars]"
+    },
+    {
+      "source": { "id": null, "name": "International Cricket Council" },
+      "author": "ICC",
+      "title": "R Ashwin decodes the brilliance of Pat Cummins in the World Cup Final - ICC Cricket",
+      "description": "The Indian spin maestro R Ashwin dissected the smart tactics employed by the 2023 ICC Men's Cricket World Cup-winning captain to contain the opposition's batters.",
+      "url": "https://www.icc-cricket.com/news/3793234",
+      "urlToImage": "https://resources.pulse.icc-cricket.com/ICC/photo/2023/11/24/44c8d633-c029-4e1f-ae8e-e90441d45637/GettyImages-1803341268.jpg",
+      "publishedAt": "2023-11-24T09:33:03Z",
+      "content": "The Indian spin maestro R Ashwin dissected the smart tactics employed by the 2023 ICC Men's Cricket World Cup-winning captain to contain the opposition's batters.In his latest YouTube video 'World Cu… [+2108 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Livemint" },
+      "author": "Boudhaditya Sanyal",
+      "title": "65-inch LED TV ensure larger than life viewing: Choose from top 8 options | Mint - Mint",
+      "description": "Bring home a 65-inch LED TV and enjoy a grand viewing experience with your family. Choose from the top offerings from best brands to see which one suits your needs better.",
+      "url": "https://www.livemint.com/technology/gadgets/65inch-led-tv-ensure-larger-than-life-viewing-choose-from-top-8-options-11700809499729.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/11/24/1600x900/65_inch_led_tv_1700810484716_1700810484879.jpg",
+      "publishedAt": "2023-11-24T08:56:34Z",
+      "content": "The quest for larger-than-life viewing experiences has led to the widespread popularity of 65-inch LED TVs. These mammoth screens, with their expansive real estate and cutting-edge display technologi… [+18267 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "ANI",
+      "title": "Research reveals how plants determine where light is coming from - IndiaTimes",
+      "description": "Science News: Plants use a light-sensitive tissue to detect the origin of light and position their organs for optimal photosynthesis. This tissue generates a light",
+      "url": "https://timesofindia.indiatimes.com/home/science/research-reveals-how-plants-determine-where-light-is-coming-from/articleshow/105470020.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-105470228,width-1070,height-580,imgsize-590178,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-24T08:28:43Z",
+      "content": "<ul><li>News</li>\r\n<li>Science News</li>\r\n<li>Research reveals how plants determine where light is coming from</li></ul>\r\nPlants use a light-sensitive tissue to detect the origin of light and positio… [+434 chars]"
+    },
+    {
+      "source": { "id": null, "name": "gizmochina" },
+      "author": "gizmochina",
+      "title": "iQOO 12 teased in India with Q1 SuperComputing Chip & 144fps Game Frame Interpolation tech - gizmochina",
+      "description": null,
+      "url": "https://www.gizmochina.com/2023/11/24/iqoo-12-q1-gaming-chip-144fps-interpolation/",
+      "urlToImage": null,
+      "publishedAt": "2023-11-24T08:19:56Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Livemint" },
+      "author": "Livemint",
+      "title": "Karnataka govt withdraws CBI probe against DK Shivakumar in assets case | Mint - Mint",
+      "description": "Karnataka government approves withdrawal of CBI probe against Deputy CM DK Shivakumar in alleged disproportionate assets case.",
+      "url": "https://www.livemint.com/news/india/karnataka-govt-withdraws-cbi-probe-against-dk-shivakumar-in-assets-case-11700809161446.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/11/24/1600x900/PTI05-20-2023-000163B-0_1684849845936_1700813679997.jpg",
+      "publishedAt": "2023-11-24T08:13:52Z",
+      "content": "The Karnataka government has approved a proposal to withdraw the CBI probe against Deputy Chief Minister DK Shivakumar in the alleged disproportionate assets case. The decision was taken in the cabin… [+2118 chars]"
+    },
+    {
+      "source": { "id": null, "name": "India Today" },
+      "author": "India Today News Desk",
+      "title": "Jammu and Kashmir officials release picture of cave used as hideout by terrorists - India Today",
+      "description": "Images of a forest cave that was used by terrorists as a hideout have been released by security officials in Jammu and Kashmir after two terrorists were killed in the Rajouri encounter. Five Army personnel also lost their lives in the encounter.",
+      "url": "https://www.indiatoday.in/india/story/jammu-and-kashmir-terrorists-cave-hideout-photos-rajouri-encounter-security-forces-2466935-2023-11-24",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202311/jammu-and-kashmir-243104404-16x9_0.jpg?VersionId=yzozYhgn7AXipKdLHikaQTAk2OZay6Nm",
+      "publishedAt": "2023-11-24T08:12:41Z",
+      "content": "Hours after two terrorists, including a top army commander of the Lashkar-e-Taiba (LeT) terror outfit, were killed in Jammu and Kashmir's Rajouri district on Thursday, security officials released pic… [+2654 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "US Doctors Find Fully Intact House Fly Inside 63-Year-Old Man's Intestines - NDTV",
+      "description": "Doctors in the United States were left baffled after discovering a fully intact house fly inside a man's intestines during a colonoscopy.",
+      "url": "https://www.ndtv.com/science/us-doctors-find-fully-intact-house-fly-inside-63-year-old-mans-intestines-4601996",
+      "urlToImage": "https://c.ndtvimg.com/2023-11/8vticieg_fly-found-inside-intestine-_625x300_24_November_23.jpeg?ver-20231128.06",
+      "publishedAt": "2023-11-24T07:37:33Z",
+      "content": "The doctors prodded the fly and confirmed it was dead\r\nDoctors in the United States were left baffled after discovering a fully intact house fly inside a man's intestines during a colonoscopy. The fi… [+2432 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "TOI Sports Desk",
+      "title": "Watch: Suryakumar Yadav relives his match-winning knock in first game as India captain - timesofindia.com",
+      "description": "Cricket News: Suryakumar Yadav, captaining India for the first time, hit an assured knock of 80 as the hosts chased down 208 for a thrilling two-wicket victory agai",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/australia-in-india/watch-suryakumar-yadav-relives-his-match-winning-knock-in-first-game-as-india-captain/articleshow/105467887.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-105467737,width-1070,height-580,imgsize-155692,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-24T07:22:51Z",
+      "content": "Surya, Rinku help India chase down 209 vs Australia"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "How Kim's Daughter, North Korea Scientists Celebrated Spy Satellite Launch - NDTV",
+      "description": "North Korea celebrated the deployment of its new spy satellite with breathless displays on state television, a banquet with rocket scientists and space agency T-shirts - including one prominently worn by leader Kim Jong Un's daughter.",
+      "url": "https://www.ndtv.com/world-news/kims-daughter-scientists-celebrate-spy-satellite-launch-with-matching-tees-4601931",
+      "urlToImage": "https://c.ndtvimg.com/2023-11/tmpljhl_north-korea_625x300_24_November_23.jpg",
+      "publishedAt": "2023-11-24T07:12:03Z",
+      "content": "The photos of a room of people wearing the shirts were sent out on state media\r\nNorth Korea celebrated the deployment of its new spy satellite with breathless displays on state television, a banquet … [+1082 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Moneycontrol" },
+      "author": "Aihik Sur",
+      "title": "Deepfakes: MeitY gives social media platforms 7-day deadline, to help aggrieved users in filing FIR - Moneycontrol",
+      "description": "Minister of State for Electronics and Information Technology Rajeev Chandrasekhar said that such content could be subject to action under the current IT Rules, particularly Rule 3(1)(b), which mandates the removal of 12 types of content within 24 hours of rec…",
+      "url": "https://www.moneycontrol.com/news/technology/deepfakes-meity-gives-social-media-platforms-7-day-ultimatum-to-align-their-policies-to-indian-laws-and-regulations-11805521.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/06/Rajeev-Chandrasekhar-1-770x433-770x433.png",
+      "publishedAt": "2023-11-24T07:02:49Z",
+      "content": "The Ministry of Electronics and Information Technology (MeitY) announced on November 24 that it will be giving social media platforms seven days to align their terms of service and other policies wit… [+1389 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Koimoi" },
+      "author": "Umesh Punwani",
+      "title": "Napoleon Movie Review: Joaquin Phoenix Saw The Crown Of Hollywood In The Gutter, He Placed It Atop His Own Head! - Koimoi",
+      "description": "This is Joaquin Phoenix mastering Ridley Scott's unwavering passion for cinema in a way even the greatest would think twice before getting into. A cinematic masterpiece - Napoleon Movie Review Out!",
+      "url": "https://www.koimoi.com/reviews/hollywood-movie-reviews/napoleon-movie-review-joaquin-phoenix-saw-the-crown-of-hollywood-in-the-gutter-he-placed-it-atop-his-own-head/",
+      "urlToImage": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2023/11/napoleon-movie-review-001.jpg",
+      "publishedAt": "2023-11-24T06:45:45Z",
+      "content": "Napoleon Movie Review Rating: \r\nStar Cast: Joaquin Phoenix, Vanessa Kirby, Ben Miles, Ludivine Sagnier\r\nDirector: Ridley Scott\r\nNapoleon Movie Review Out!(Photo Credit Imdb)\r\nWhats Good: It presents … [+6073 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Business Standard" },
+      "author": "SI Reporter",
+      "title": "Stock Market LIVE: Broader indices firm; Fino Payments up 3%; Paytm down 3% - Business Standard",
+      "description": "Stock market Updates LIVE, Friday, November 24: In the broader market, the BSE MidCap index was up 0.3 per cent, and the SmallCap 0.6 per cent.",
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-today-nov-24-nse-bse-sensex-nifty-ecb-global-cues-tata-tech-gandhar-oil-123112400068_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-03/27/full/1679902828-7872.jpg",
+      "publishedAt": "2023-11-24T06:41:17Z",
+      "content": "Stock market updates on November 24, 2023: Equity benchmark indices moved in a thin range in Friday's intra-day deals amid tepid cues from global peers. While the US market was shut overnight for Tha… [+763 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Livemint" },
+      "author": "Livemint",
+      "title": "Dublin news: Violence erupts after knife attack on children outside school | Mint - Mint",
+      "description": "Dubline news: Violence erupts in Dublin after a 5-year-old girl is seriously injured in a knife attack outside a school. Protestors clash with police, torch vehicles, and loot shops. Police deploy over 400 officers to contain the unrest.",
+      "url": "https://www.livemint.com/news/world/dublin-news-violence-erupts-after-knife-attack-on-children-outside-school-11700803939343.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/11/24/1600x900/Dublin_1700804569390_1700804569754.jpg",
+      "publishedAt": "2023-11-24T06:05:16Z",
+      "content": "Deadly violence has sparked Ireland's capital Dublin after a 5-year-old girl was seriously injured in a knife attack outside a school. In the incident, a woman and two other young children were also … [+1941 chars]"
     },
     {
       "source": { "id": null, "name": "Hindustan Times" },
@@ -43,26 +253,6 @@
       "content": "Looks like legal action has inspired Mansoor Ali Khan to tender an apology to Trisha, even if it may not be the most heartfelt. On Friday, a statement from the Leo actor was posted on social media, i… [+2215 chars]"
     },
     {
-      "source": { "id": null, "name": "NDTV News" },
-      "author": null,
-      "title": "Minutes After Gaza Truce Begins, Israel Warns Residents Of Rocket Attack - NDTV",
-      "description": "A four-day truce in the Israel-Hamas war has taken effect and exchange of hostages is expected to take place later today, mediator Qatar said. The four-day pause in fighting comes after nearly seven weeks of intense fighting.",
-      "url": "https://www.ndtv.com/world-news/israel-hamas-ceasefire-to-begin-shortly-hostage-release-later-today-qatar-4601409",
-      "urlToImage": "https://c.ndtvimg.com/2023-11/hj5o0sho_israel-attack-in-gaza-reuters_625x300_24_November_23.jpeg?ver-20231128.06",
-      "publishedAt": "2023-11-24T05:57:00Z",
-      "content": "<li>The ceasefire began at 10.30 am IST, while the first group of hostages will be released by Hamas hours later, around 7.30 pm IST, according to Qatar's foreign ministry. The \"first batch\" of civil… [+2413 chars]"
-    },
-    {
-      "source": { "id": null, "name": "Curlytales.com" },
-      "author": "Shreya Rathod",
-      "title": "ISRO Preparing For Chandrayaan-4! Rocket, Launch Date, Launch Site & Other Details Here. - Curly Tales",
-      "description": "Chandrayaan-3 was the third iteration of ISRO’s Chandrayaan programme. It was launched from Satish Dhawan Space Centre on July 14, 2023. Moreover, the mission was successful and it made India…",
-      "url": "https://curlytales.com/isro-preparing-for-chandrayaan-4-rocket-launch-date-launch-site-other-details-here/",
-      "urlToImage": "https://curlytales.com/wp-content/uploads/2023/11/chandrayaan-4-cover-1.jpg",
-      "publishedAt": "2023-11-24T05:54:27Z",
-      "content": "Chandrayaan-3 was the third iteration of ISROs Chandrayaan programme. It was launched from Satish Dhawan Space Centre on July 14, 2023. Moreover, the mission was successful and it made India the four… [+3608 chars]"
-    },
-    {
       "source": { "id": null, "name": "WION" },
       "author": "WION Desk",
       "title": "6 Surprising Health Benefits of Eating Peanuts in Winters - WION",
@@ -73,64 +263,74 @@
       "content": "Preventing cognitive decline is no small feat, and peanuts have a powerful trio niacin, resveratrol, and vitamin E, that can do this. These elements team up to form a protective barrier against Alzhe… [+40 chars]"
     },
     {
-      "source": { "id": null, "name": "YouTube" },
-      "author": null,
-      "title": "China reported ‘no unusual pathogens’ in respiratory illness surge – WHO | INQToday - INQUIRER.net",
-      "description": "The World Health Organization says China reported no unusual or new pathogens in the upsurge in child respiratory illnesses in the north of the country, afte...",
-      "url": "https://www.youtube.com/watch?v=A54f5emXuYo",
-      "urlToImage": "https://i.ytimg.com/vi/A54f5emXuYo/maxresdefault.jpg",
-      "publishedAt": "2023-11-24T05:21:23Z",
-      "content": null
+      "source": { "id": null, "name": "Livemint" },
+      "author": "Ankit Gohel",
+      "title": "Tata Technologies IPO Day 3: Subscription status on last day, GMP. Should you apply? | Mint - Mint",
+      "description": "Tata Technologies IPO got oversubscribed heavily within hours of opening amid strong interest from investors across the board. The enthusiasm over Tata Technologies IPO is huge as it is the first IPO from the Tata Group in nearly two decades.",
+      "url": "https://www.livemint.com/market/stock-market-news/tata-technologies-ipo-day-3-subscription-status-on-last-day-gmp-should-you-apply-11700803610747.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/11/24/1600x900/tata_1700602704405_1700803829435.jpg",
+      "publishedAt": "2023-11-24T05:47:09Z",
+      "content": "Tata Technologies IPO: The initial public offering (IPO) of Tata Motors subsidiary, Tata Technologies Ltd, has received strong investors response with a record number of IPO applications. The Tata Te… [+5387 chars]"
     },
     {
       "source": { "id": null, "name": "The Indian Express" },
-      "author": "The Indian Express",
-      "title": "India vs Australia highlights: Suryakumar Yadav’s 80 and Rinku Singh’s finishing touch help IND to 2-wicket win in Visakhapatnam - The Indian Express",
+      "author": "Navmi Krishna, Sheji S Edathara, Arushi Bhaskar",
+      "title": "Israel-Hamas War News Live Updates: 4-day ceasefire begins, Hamas to release first group of hostages this afternoon - The Indian Express",
+      "description": "Israel-Hamas War News Live Updates: On Thursday, Qatar said that increased aid for Palestinians will start to enter “as soon as possible,” once the truce is in place.",
+      "url": "https://indianexpress.com/article/world/israel-hamas-war-news-live-updates-netanyahu-gaza-palestine-9038852/",
+      "urlToImage": "https://images.indianexpress.com/2023/11/Gaza-22.jpg",
+      "publishedAt": "2023-11-24T05:38:45Z",
+      "content": "Susan Sarandon, Melissa Barrera dropped from Hollywood companies after comments on Israel-Hamas war \r\nOscar-winning actor Susan Sarandon and Scream star Melissa Barrera were each dropped by Hollywood… [+1263 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Editorji.com" },
+      "author": "Editorji News Desk",
+      "title": "Garena Free Fire MAX redeem codes Today 24 November 2023: Get your free rewards today - Editorji",
+      "description": "Engage in Garena Free Fire MAX with today's special redemption codes. Get a tactical edge and unique in-game rewards - available for a limited time on November 24, 2023. Act fast to claim your exclusive items!",
+      "url": "https://www.editorji.com/tech-news/garena-free-fire-max-redeem-codes-today-24-november-2023-get-your-free-rewards-today-1700803319329",
+      "urlToImage": "https://cdn.editorji.com/xZ2KQJRY5e.jpg",
+      "publishedAt": "2023-11-24T05:21:59Z",
+      "content": "Garena Free Fire MAX, a notable contender in the mobile gaming landscape, is renowned for its engaging battle royale format. A key feature enhancing player experience is the availability of redemptio… [+1492 chars]"
+    },
+    {
+      "source": { "id": "the-hindu", "name": "The Hindu" },
+      "author": "The Hindu",
+      "title": "Afghanistan announces permanent closure of embassy in India - The Hindu",
       "description": null,
-      "url": "https://indianexpress.com/article/sports/cricket/india-vs-australia-live-score-1st-t20-ind-vs-aus-scorecard-updates-visakhapatnam-9039047/",
+      "url": "https://www.thehindu.com/news/national/afghanistan-embassy-closes-permanently-in-india/article67568717.ece",
       "urlToImage": null,
-      "publishedAt": "2023-11-24T04:38:00Z",
+      "publishedAt": "2023-11-24T05:09:00Z",
       "content": null
-    },
-    {
-      "source": { "id": "the-times-of-india", "name": "The Times of India" },
-      "author": "TOI Sports Desk",
-      "title": "'Must be a surreal feeling...': Dinesh Karthik praises Rinku Singh-Abhishek Nayar's special relationship - IndiaTimes",
-      "description": "Cricket News: India's new 'finisher,' Rinku Singh, scored a match-winning knock of 22 not out off 14 balls, leading the hosts to their highest-ever T20I run chase o",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/australia-in-india/must-be-a-surreal-feeling-dinesh-karthik-praises-rinku-singh-abhishek-nayars-special-relationship/articleshow/105462077.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-105462093,width-1070,height-580,imgsize-37140,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-24T04:33:54Z",
-      "content": null
-    },
-    {
-      "source": { "id": null, "name": "Hindustan Times" },
-      "author": "HT Entertainment Desk",
-      "title": "Animal box office prediction: Ranbir-starrer to beat Shah Rukh's Jawan in Telugu - Hindustan Times",
-      "description": "Animal box office prediction: Telugu version of the Ranbir Kapoor film could score a huge opening. Animal is expected surpass Shah Rukh Khan's Jawan in Telugu.",
-      "url": "https://www.hindustantimes.com/entertainment/telugu-cinema/animal-box-office-prediction-ranbir-kapoor-shah-rukh-khan-jawan-telugu-101700798220140.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/24/1600x900/jawan-vs-animal_1700798748403_1700798763330.jpg",
-      "publishedAt": "2023-11-24T04:22:09Z",
-      "content": "Ranbir Kapoor's Animal will be released on December 1 in Hindi, Telugu, Tamil, Kannada, and Malayalam. As per a report by Boxofficeindia.com, Animal is looking to beat the opening numbers of Jawan in… [+2863 chars]"
-    },
-    {
-      "source": { "id": null, "name": "Jagran.com" },
-      "author": "Prerna Targhotra",
-      "title": "5 Incredible Benefits Of Consuming Tomatoes Daily - Jagran English",
-      "description": "Benefits Of Tomatoes: Consuming tomatoes and tomato-based products has impressive benefits for the overall health and well-being of individuals.",
-      "url": "https://english.jagran.com/lifestyle/5-incredible-benefits-of-consuming-tomatoes-daily-10115918",
-      "urlToImage": "https://imgeng.jagran.com/images/2023/nov/tomato-benefits1700799976616.jpg",
-      "publishedAt": "2023-11-24T04:21:00Z",
-      "content": "Benefits Of Tomatoes: Tomatoes are incredibly nutritious and healthy for overall health and well-being. Almost no dish is prepared with the exotic flavour and taste of tomatoes. Tomatoes come in a va… [+2310 chars]"
     },
     {
       "source": { "id": null, "name": "Livemint" },
       "author": "Livemint",
-      "title": "L&T Technology Services lays off 200 employees in mid-to-senior roles: Report | Mint - Mint",
-      "description": "L&T Technology Sevices has reportedly laid off 200 employees in mid-to-senior roles, mainly in delivery and support functions, due to the integration of automation",
-      "url": "https://www.livemint.com/companies/news/lt-technology-services-lays-off-200-employees-in-mid-to-senior-roles-11700796608210.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/11/24/1600x900/layoff_1675344843008_1700798983026.jpg",
-      "publishedAt": "2023-11-24T04:12:37Z",
-      "content": "L&amp;T Technology Sevices (LTTS) has reportedly laid off 200 employees in mid-to-senior roles. According to a report by the Times of India, the engineering services company sacked its staff partly b… [+2347 chars]"
+      "title": "Delhi air quality ‘very poor’ today, AQI crosses 350 mark | Mint - Mint",
+      "description": "Delhi's air quality has reached 'very poor' category with AQI above 350",
+      "url": "https://www.livemint.com/news/india/delhi-air-quality-very-poor-today-aqi-crosses-350-mark-11700796020032.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/11/24/1600x900/e5be6066-2b08-11ec-a2ce-f0c64477ba97_1636120680640_1700796996476.jpg",
+      "publishedAt": "2023-11-24T04:56:44Z",
+      "content": "Delhi's air quality plummeted on Friday, November 24, morning to 'very poor' category, with the Air Quality Index (AQI) above 350, according to the System of Air Quality and Weather Forecasting And R… [+2195 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Healthshots.com" },
+      "author": "Healthshots",
+      "title": "Health benefits of tomatoes - Health shots",
+      "description": "Incorporating tomatoes into your diet provides not only a burst of flavor but also a myriad of health benefits that contribute to overall well-being. Read on to learn why you should eat tomatoes!",
+      "url": "https://www.healthshots.com/web-stories/health-benefits-of-tomatoes/",
+      "urlToImage": "https://images.healthshots.com/healthshots/en/uploads/2023/11/22162644/vitamin-E-2.jpg",
+      "publishedAt": "2023-11-24T04:30:00Z",
+      "content": "Incorporating tomatoes into your diet provides not only a burst of flavour but also several health benefits that contribute to overall well-being. Read on to learn why you should eat tomatoes regular… [+1712 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "Aniruddha Dhar",
+      "title": "OpenAI board that fired Sam Altman ‘replaced’. CEO's X post on sole survivor - Hindustan Times",
+      "description": "OpenAI's previous board consisted of Tasha McCauley, Helen Toner, Ilya Sutskever and Adam D'Angelo, who also sits on the new board.",
+      "url": "https://www.hindustantimes.com/technology/openai-board-that-fired-sam-altman-replaced-ceos-x-post-on-only-survivor-101700796419474.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/24/1600x900/Adam_DAngelo_1700799347403_1700799365708.jpeg",
+      "publishedAt": "2023-11-24T04:13:36Z",
+      "content": "Following Sam Altman's shock return as chief executive of OpenAI late Tuesday, the board that fired him from his role in the company, a ChatGPT-maker, has been almost entirely replaced after a rebell… [+3652 chars]"
     },
     {
       "source": { "id": null, "name": "YouTube" },
@@ -143,124 +343,34 @@
       "content": null
     },
     {
-      "source": { "id": null, "name": "Livemint" },
-      "author": "Livemint",
-      "title": "Qatar accepts India's appeal against death sentence to former Navy officers: Report | Mint - Mint",
-      "description": "Qatar accepts India's appeal against death sentence of eight former Indian Navy personnel.",
-      "url": "https://www.livemint.com/news/india/qatar-accepts-indias-appeal-against-death-sentence-of-indian-navy-personnel-report-11700797709194.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/11/24/1600x900/im-878232_1698820703327_1700798257935.jpg",
-      "publishedAt": "2023-11-24T03:49:34Z",
-      "content": "A Qatar court has accepted the appeal filed by the Indian government against the death sentence awarded to eight former Indian Navy personnel last month, according to media reports. The court said th… [+2185 chars]"
-    },
-    {
       "source": { "id": null, "name": "The Indian Express" },
-      "author": "Express News Service",
-      "title": "Afghanistan permanently shuts down its embassy in Delhi, cites change in ‘policy and interests’ - The Indian Express",
-      "description": "In a statement, the Afghanistan embassy said that the decision was taken following the ‘constant pressure from both the Taliban & the Indian government to relinquish control’.",
-      "url": "https://indianexpress.com/article/india/afghanistan-embassy-permanent-closure-delhi-operations-9040189/",
-      "urlToImage": "https://images.indianexpress.com/2023/11/alia-sushmita-15.jpg",
-      "publishedAt": "2023-11-24T03:10:33Z",
-      "content": "Almost two months after it announced the shutting down of its operations, the Afghanistan embassy in New Delhi on Friday announced its permanent closure and asked the Indian government to allow the f… [+6059 chars]"
+      "author": "Sports Desk",
+      "title": "IND vs AUS: Dinesh Karthik reveals heartwarming story behind Abhishek Nayar and Rinku Singh embrace after victory - The Indian Express",
+      "description": "India were in a perilous position in the final over of 1st T20I while chasing 209. They needed one run off the final ball after losing three wickets on three balls. Then off a no ball, Rinku Singh hit a six.",
+      "url": "https://indianexpress.com/article/sports/cricket/ind-vs-aus-dinesh-karthik-reveals-heartwarming-story-behind-abhishek-nayar-and-rinku-singh-embrace-after-victory-9040202/",
+      "urlToImage": "https://images.indianexpress.com/2023/11/RINKU-SINGH-ABHISHEK-NAYAR-CROP.png",
+      "publishedAt": "2023-11-24T04:00:08Z",
+      "content": "After Rinku Singh guided India to a last-ball victory over Australia in the first T20I game at Visakhapatnam on Thursday, there was a warm embrace between Rinku and Abhishek Nayar. India were in a pe… [+2005 chars]"
     },
     {
-      "source": { "id": null, "name": "Hindustan Times" },
-      "author": "HT Correspondent",
-      "title": "Delhi AQI in ‘severe’ category on Friday, unlikely to improve over weekend - Hindustan Times",
-      "description": "Delhi has recorded eight ‘severe’ air days so far this month when the AQI has been over 400; it has been on the brink of severe on another six days | Latest News India",
-      "url": "https://www.hindustantimes.com/india-news/delhi-air-quality-in-severe-category-unlikely-to-improve-over-weekend-101700795318898.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/24/1600x900/Delhi-s-air-quality-is-likely-to-remain-in-the--ve_1700795732646.jpg",
-      "publishedAt": "2023-11-24T03:08:38Z",
-      "content": "New Delhi: Delhis air quality on Friday morning touched the severe category after being in the very poor category for six consecutive days until Thursday.\r\nDelhis air quality is likely to remain in t… [+3187 chars]"
-    },
-    {
-      "source": { "id": null, "name": "ThePrint" },
-      "author": "Keshav Padmanabhan",
-      "title": "Anti-Islam, far-Right populist, Nupur Sharma supporter—Geert Wilders leads Netherlands’ largest party - ThePrint",
-      "description": "Wilders has called for the Netherlands' to exit EU, ban mosques & Quran. First elected in 1998, he has been a member of Dutch house of representatives since 2002.",
-      "url": "https://theprint.in/world/anti-islam-far-right-populist-nupur-sharma-supporter-geert-wilders-leads-netherlands-largest-party/1856893/",
-      "urlToImage": "https://static.theprint.in/wp-content/uploads/2023/11/Geert-Wilders.jpg",
-      "publishedAt": "2023-11-24T02:30:27Z",
-      "content": "New Delhi: Geert Wilders, the far-Right, anti-Islam, anti-European Union political provocateur has emerged as the leader of the largest party in the Netherlands. By last count, the Party for Freedom … [+6235 chars]"
-    },
-    {
-      "source": { "id": null, "name": "Moneycontrol" },
-      "author": "Tushar Goenka",
-      "title": "The era of operator founder: Why investors love executives leaving startups to start up - Moneycontrol",
-      "description": "While a majority of the departing executives are going back into the ecosystem and starting a new business, a small portion of them have chosen to simply change their sectors. The remaining are going back to safety.",
-      "url": "https://www.moneycontrol.com/news/business/technicals/halo-effect-why-investors-are-backing-top-startup-executives-who-are-departing-to-build-on-their-own-11801121.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/04/funding-e1676700424519.png",
-      "publishedAt": "2023-11-24T02:22:17Z",
-      "content": null
-    },
-    {
-      "source": { "id": null, "name": "Moneycontrol" },
-      "author": "Moneycontrol News",
-      "title": "NBFC body urges RBI to re-evaluate risk weight norms for bank loans - Moneycontrol",
-      "description": "The body said that the revised norms may reduce flow of credit to micro, small and medium enterprises (MSMEs), self-employed and other sectors.",
-      "url": "https://www.moneycontrol.com/news/business/nbfc-body-urges-rbi-to-re-evaluate-risk-weight-norms-for-bank-loans-11802201.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/02/NPA.jpg",
-      "publishedAt": "2023-11-24T01:39:22Z",
-      "content": "Finance Industry Development Council (FIDC), a representative body of non-banking financial companies (NBFCs) in India, has requested the Reserve Bank of India (RBI) to re-evaluate the revised risk w… [+1508 chars]"
-    },
-    {
-      "source": { "id": null, "name": "Zoom" },
-      "author": "TN Tech Desk",
-      "title": "Garena Free Fire Redeem Codes November 24: Elite Pass, Titian Mark Gun Skins! - Times Now",
-      "description": "Garena Free Fire unveils redeem codes every day, that unlock a range of exclusive in-game items typically reserved for in-app purchases like skins, diamonds, costumes, etc. The latest Free Fire codes are now available for today. Continue reading to know more …",
-      "url": "https://www.timesnownews.com/technology-science/garena-free-fire-redeem-codes-november-24-elite-pass-titian-mark-gun-skins-article-105458002",
-      "urlToImage": "https://static.tnn.in/thumb/msid-105458025,thumbsize-69598,width-1280,height-720,resizemode-75/105458025.jpg",
-      "publishedAt": "2023-11-24T01:24:39Z",
-      "content": "DDA Housing Scheme 2023: Registration Begins Today For Newly Constructed Flats, Luxury Penthouses In Dwarka, Other Places | Here's How To Apply"
-    },
-    {
-      "source": { "id": "the-times-of-india", "name": "The Times of India" },
-      "author": "TNN",
-      "title": "451 dengue cases in Bhopal so far, larvae found in 14% water samples - Times of India",
-      "description": "BHOPAL: In little less than seven weeks, Bhopal has reported 451 dengue cases.",
-      "url": "https://timesofindia.indiatimes.com/city/bhopal/451-dengue-cases-in-bhopal-so-far-larvae-found-in-14-water-samples/articleshow/105458007.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-105458020,width-1070,height-580,imgsize-32190,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-24T01:21:44Z",
-      "content": "10 animals that are only found in Australia"
-    },
-    {
-      "source": { "id": null, "name": "Hindustan Times" },
-      "author": "Snehashish Roy",
-      "title": "‘Giving timeline is wrong’: Top official on U'khand tunnel rescue operation - Hindustan Times",
-      "description": "As the drilling operation reaches closer to completion, officials say they are prepared in every way to get the trapped men out. | Latest News India",
-      "url": "https://www.hindustantimes.com/india-news/giving-timeline-is-wrong-senior-official-on-uttarakhand-tunnel-rescue-op-drilling-to-restart-around-9-am-top-points-101700785750747.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/24/1600x900/INDIA-TUNNEL-COLLAPSE-2_1700787895566_1700787915703.JPG",
-      "publishedAt": "2023-11-24T01:07:33Z",
-      "content": "After 11 days of arduous effort and drilling up to 46.8 metres into the Silkyara tunnel in Uttarakhand's Uttarkashi district, officials believe the rescue operation to evacuate 41 workers from across… [+2663 chars]"
-    },
-    {
-      "source": { "id": null, "name": "NDTV News" },
+      "source": { "id": null, "name": "123telugu.com" },
       "author": null,
-      "title": "Earth Receives First Laser Message From 16 Million Km From Deep Space - NDTV",
-      "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
-      "url": "https://www.ndtv.com",
-      "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
-      "publishedAt": "2023-11-24T00:56:00Z",
-      "content": null
+      "title": "Aadikeshava locks its OTT and TV partners - 123telugu",
+      "description": "Telugu cinema news, Telugu Movies Updates, Latest Movie reviews in Telugu, Telugu cinema reviews, telugu movie reviews, Tollywood, Box office collections, Telugu Movie show times, Theater List, telugu cinema tickets",
+      "url": "https://www.123telugu.com/mnews/aadikeshava-locks-its-ott-and-tv-partners.html",
+      "urlToImage": "https://www.123telugu.com/content/wp-content/themes/123telugu/images/logo.gif",
+      "publishedAt": "2023-11-24T03:30:00Z",
+      "content": "Mega hero Panja Vaishnav Tej and happening actress Sreeleela starrer love action drama Aadikeshava hit the screens finally today. Srikanth N Reddy is making his debut as a director. \r\nThe fresh and c… [+518 chars]"
     },
     {
-      "source": { "id": null, "name": "Cimmyt.org" },
-      "author": null,
-      "title": "Millet processing and progress on understanding pearl millet rancidity - CIMMYT",
-      "description": "As part of the Dryland Crops Program webinar series on the International Year of Millets, CIMMYT invites you to an upcoming webinar on Millet processing and progress on understanding pearl millet rancidity.\r\n\r\nWhen: Tuesday, December 5, 2023, from 3:00-4:00 p…",
-      "url": "https://www.cimmyt.org/events/millet-processing-and-progress-on-understanding-pearl-millet-rancidity/",
-      "urlToImage": "https://www.cimmyt.org/content/uploads/2023/11/01-Processing-Millets_web.jpg",
-      "publishedAt": "2023-11-24T00:06:29Z",
-      "content": "As part of the Dryland Crops Program webinar series on the International Year of Millets, CIMMYT invites you to an upcoming webinar on Millet processing and progress on understanding pearl millet ran… [+695 chars]"
-    },
-    {
-      "source": { "id": null, "name": "Hindustan Times" },
-      "author": "Reuters",
-      "title": "Riots erupt in Ireland's capital Dublin following knife attack on children - Hindustan Times",
-      "description": "Public transport was suspended and patients advised not to travel to a nearby maternity hospital unless absolutely necessary after clashes erupted in Dublin. | World News",
-      "url": "https://www.hindustantimes.com/world-news/riots-erupt-in-irelands-capital-following-knife-attack-on-five-children-101700781182694.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/23/1600x900/IRELAND-STABBING--51_1700781396335_1700781425799.JPG",
-      "publishedAt": "2023-11-23T23:19:12Z",
-      "content": "Three young children were among five people injured in a knife attack in Dublin on Thursday that sparked riots in the city centre and which police have not yet ruled out any motive over, including wh… [+3542 chars]"
+      "source": { "id": null, "name": "Gktoday.in" },
+      "author": "divyastuti",
+      "title": "James Webb Space Telescope Uncovers “Teenage” Galaxies in Cosmic Adolescence - GKToday",
+      "description": "The James Webb Space Telescope (JWST), operational since last year, has revealed groundbreaking insights into galaxies that could be considered the cosmic “teenagers.” Unlike the early galaxies observed, these entities, formed about 2-3 billion years post-Big…",
+      "url": "https://www.gktoday.in/james-webb-space-telescope-uncovers-teenage-galaxies-in-cosmic-adolescence/",
+      "urlToImage": null,
+      "publishedAt": "2023-11-24T02:42:29Z",
+      "content": "The James Webb Space Telescope (JWST), operational since last year, has revealed groundbreaking insights into galaxies that could be considered the cosmic “teenagers.” Unlike the early galaxies obser… [+2332 chars]"
     },
     {
       "source": { "id": null, "name": "ATP Tour" },
@@ -271,116 +381,6 @@
       "urlToImage": "https://www.atptour.com/-/media/images/news/2023/11/23/20/44/djokovic-davis-cup-2023-thursday.jpg",
       "publishedAt": "2023-11-23T21:40:48Z",
       "content": "Novak Djokovic has guided Serbia into Saturday's Davis Cup semi-finals in Malaga, where he will face a third showdown with World No. 4 Italian Jannik Sinner in less than two weeks.\r\nWorld No. 1 Djoko… [+1289 chars]"
-    },
-    {
-      "source": { "id": null, "name": "Bollywood Life" },
-      "author": "Manisha Mandal",
-      "title": "Bigg Boss 17: Salman Khan exposes Vicky Jain infront of Ankita Lokhande; Orry makes a wildcard entry - Bollywood Life",
-      "description": "Bigg Boss 17: Ankita Lokhande gives a cold reaction after Salman Khan shows her Vicky Jain holding Sana Raees Khan’s hand; Orry enters the house as a third wildcard contestant.",
-      "url": "https://www.bollywoodlife.com/bigg-boss/bigg-boss-17-salman-khan-exposes-vicky-jain-infront-of-ankita-lokhande-orry-makes-a-wildcard-entry-entertainment-news-2702820/",
-      "urlToImage": "https://st1.bollywoodlife.com/wp-content/uploads/2023/11/himashi-13.png",
-      "publishedAt": "2023-11-23T18:49:06Z",
-      "content": "This Weekend Ka Vaar at Bigg Boss 17house is going to be damn interesting. Salman Khan deliberately shows Ankita Lokhande how Vicky Jain is bonding quite well with Sana Raees Khan in the house, and t… [+2412 chars]"
-    },
-    {
-      "source": { "id": null, "name": "YouTube" },
-      "author": null,
-      "title": "Telangana Has Decided To Get Rid Of KCR And His Family By...: Telangana Cong Chief Revanth Reddy - India Today",
-      "description": "Telangana Have Decided To Get Rid Of KCR And His Family By...: Telangana Cong Chief Revanth Reddy #telanganaelections2023 #telangananews #rajdeepsardesai #re...",
-      "url": "https://www.youtube.com/watch?v=IzioUm_sPN0",
-      "urlToImage": "https://i.ytimg.com/vi/IzioUm_sPN0/maxresdefault.jpg",
-      "publishedAt": "2023-11-23T17:58:23Z",
-      "content": null
-    },
-    {
-      "source": { "id": null, "name": "Livemint" },
-      "author": "Dasl Yoon",
-      "title": "Along the Koreas’ Dangerous Border, the Guardrails Are Now Down | Mint - Mint",
-      "description": "Pyongyang and Seoul have scrapped a five-year-old agreement meant to reduce the risk of clashes.",
-      "url": "https://www.livemint.com/politics/along-the-koreas-dangerous-border-the-guardrails-are-now-down-11700760758899.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/11/23/1600x900/im-891180_1700760762508_1700760831829.jpg",
-      "publishedAt": "2023-11-23T17:35:02Z",
-      "content": "SEOULA key symbol of a brief period of detente on the Korean Peninsula half a decade ago is now gone. This week, North and South Korea suspended an inter-Korean military agreement struck in 2018 to r… [+5815 chars]"
-    },
-    {
-      "source": { "id": "the-hindu", "name": "The Hindu" },
-      "author": "The Hindu",
-      "title": "Governor holds no veto power over Bills, says Supreme Court - The Hindu",
-      "description": null,
-      "url": "https://www.thehindu.com/news/national/governor-has-no-power-of-veto-has-to-send-back-withheld-bills-to-assembly/article67567086.ece",
-      "urlToImage": null,
-      "publishedAt": "2023-11-23T16:49:00Z",
-      "content": null
-    },
-    {
-      "source": { "id": null, "name": "Livemint" },
-      "author": "Gulveen Aulakh, Shouvik Das",
-      "title": "Deepfake regulation to target both creators and social media platforms | Mint - Mint",
-      "description": "Under the new rules, social media and other online platforms may not be able to take advantage of the safe harbour immunity they enjoy under the IT Act unless they move swiftly to take action against deepfakes",
-      "url": "https://www.livemint.com/technology/deepfake-regulation-to-target-both-creators-and-social-media-platforms-11700755795363.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/11/23/1600x900/3-0-2627956168-Deepfake-0_1676190729636_1700757360701.jpeg",
-      "publishedAt": "2023-11-23T16:40:02Z",
-      "content": "New Delhi: India will crack down on AI-generated deepfakes and misinformation armed with a new regulation that could allow for financial penalties on creators as well as social media platforms enabli… [+7129 chars]"
-    },
-    {
-      "source": { "id": "the-times-of-india", "name": "The Times of India" },
-      "author": "etimes.in",
-      "title": "Randeep Hooda and Lin Laishram to have a mythology-themed wedding in Manipur: Report - IndiaTimes",
-      "description": "Randeep Hooda is set to marry his girlfriend Lin Laishram in a mythology-themed wedding in Manipur on November 28 and 29. The couple will have a two-d",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/randeep-hooda-and-lin-laishram-to-have-a-mythology-themed-wedding-in-manipur-report/articleshow/105452036.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-105452036,width-1070,height-580,imgsize-1144088,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-23T15:01:03Z",
-      "content": null
-    },
-    {
-      "source": { "id": null, "name": "The New Indian Express" },
-      "author": "Vincent D’Souza",
-      "title": "J&K encounter martyr: DPS MRPL mourns Capt MV Pranjal, 'every teacher's perfect student' - The New Indian Express",
-      "description": "Capt Pranjal had kept in touch with his teachers over a decade after passing out, and in June this year, he had also visited his school. Little did anyone know that it would be his final visit.",
-      "url": "https://www.newindianexpress.com/states/karnataka/2023/nov/23/jk-encounter-martyr-dps-mrpl-mourns-capt-mv-pranjal-every-teachers-perfect-student-2635547.html",
-      "urlToImage": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/11/23/w600X390/MartyredCaptainMVPranjalcenterwithhisparents.jpeg",
-      "publishedAt": "2023-11-23T11:48:00Z",
-      "content": "MANGALURU: When Captain MV Pranjal got married two years ago in Bengaluru, his school teachers with whom he shared a close bond, could not physically attend the wedding because of the Covid-19 pandem… [+8088 chars]"
-    },
-    {
-      "source": { "id": "the-hindu", "name": "The Hindu" },
-      "author": "The Hindu",
-      "title": "Panauti remark against PM Modi | Election Commission issues notice to Rahul - The Hindu",
-      "description": null,
-      "url": "https://www.thehindu.com/elections/rajasthan-assembly/eci-issues-notice-to-congress-leader-rahul-gandhi-for-using-panauti-against-pm-modi-in-rajasthan/article67565393.ece",
-      "urlToImage": null,
-      "publishedAt": "2023-11-23T11:29:00Z",
-      "content": null
-    },
-    {
-      "source": { "id": null, "name": "Zoom" },
-      "author": "TN Tech Desk",
-      "title": "NASA Spots Asteroid 2023 VH6 Moving Towards Earth, Faster Than Intercontinental Ballistic Missiles! - Times Now",
-      "description": "An airplane-sized asteroid, 2023 VH6 is anticipated to be racing towards the Earth at lightning speed. Read further and know everything that NASA has said about this asteroid.",
-      "url": "https://www.timesnownews.com/technology-science/nasa-spots-asteroid-2023-vh6-moving-towards-earth-faster-than-intercontinental-ballistic-missiles-article-105442519",
-      "urlToImage": "https://static.tnn.in/thumb/msid-105442803,thumbsize-77734,width-1280,height-720,resizemode-75/105442803.jpg",
-      "publishedAt": "2023-11-23T09:42:53Z",
-      "content": "Asteroid 2023 VW5 is hurtling towards Earth today at a fiery speed, NASA alerted. \r\nClose-approaching celestial bodies known as Near-Earth asteroid\r\ns (NEAs) constitute a varied group with orbits tha… [+2574 chars]"
-    },
-    {
-      "source": { "id": null, "name": "Olympics.com" },
-      "author": "Chaitanya Jain",
-      "title": "China Masters 2023 badminton: Satwik-Chirag, HS Prannoy make quarter-finals - Olympics",
-      "description": "Indian badminton player HS Prannoy and the pair of Satwiksairaj Rankireddy-Chirag Shetty reached the quarter-finals at the China Masters 2023. Get results, scores.",
-      "url": "https://olympics.com/en/news/china-masters-2023-badminton-india-day-3-results",
-      "urlToImage": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/zrdiwzhwfaq1vohxtlfs",
-      "publishedAt": "2023-11-23T08:02:00Z",
-      "content": "HS Prannoy, in the mens singles, and the mens doubles team of Satwiksairaj Rankireddy and Chirag Shetty cruised into the quarter-finals of the China Masters 2023 badminton tournament in Shenzhen on T… [+1941 chars]"
-    },
-    {
-      "source": { "id": null, "name": "Hindustan Times" },
-      "author": "HT Brand Studio",
-      "title": "This Black Friday Sale, Avail Exciting Offers on Tata CLiQ, Tata CLiQ Luxury, and Tata CLiQ Palette - Hindustan Times",
-      "description": "Avail offers on global and Indian brands across categories on all three platforms during the sale period",
-      "url": "https://www.hindustantimes.com/brand-stories/this-black-friday-sale-avail-exciting-offers-on-tata-cliq-tata-cliq-luxury-and-tata-cliq-palette-101696354573828.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/22/1600x900/Screenshot_2023-11-22_115056_1700634084485_1700634097427.png",
-      "publishedAt": "2023-11-22T12:53:01Z",
-      "content": "As the year comes to an end, its time to indulge in the last leg of festivities. The flagship e-commerce initiatives of the Tata GroupTata CLiQ, Tata CLiQ Luxury, and Tata CLiQ Palette are hosting th… [+7341 chars]"
     }
   ]
 }
