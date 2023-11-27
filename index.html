@@ -30,6 +30,11 @@
       .image2 {
         width: 400px;
       }
+      .image {
+        display: flex;
+        justify-content: center;
+      }
+
       .header {
         display: flex;
         justify-content: center;
@@ -45,6 +50,9 @@
       .col-md-4 {
         display: flex;
         justify-content: center;
+      }
+      p {
+        font-size: 20px;
       }
     </style>
   </head>
@@ -70,6 +78,12 @@
             </li>
 
             <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="news.html"
+                >News</a
+              >
+            </li>
+
+            <li class="nav-item">
               <a class="nav-link active" aria-current="page" href="about.html"
                 >About us</a
               >
@@ -90,36 +104,113 @@
 
     <div class="header">
       <div class="news-header my-2">
-        <button class="btn btn-secondary my-2" onclick="sport()">
-          Sports news
-        </button>
-        <button class="btn btn-secondary" onclick="entertainment()">
-          Entertainment news
-        </button>
-        <button class="btn btn-secondary" onclick="technology()">
-          Technology news
-        </button>
+        <h2>Celebrating the Enlightened: Guru Nanak Jayanti</h2>
       </div>
     </div>
 
     <div class="container">
-      <div class="news-items">
-        <div class="row" id="row"></div>
+      <p>
+        Guru Nanak Jayanti, also known as Gurpurab, is a sacred and joyous
+        occasion celebrated by Sikhs worldwide to honor the birth anniversary of
+        Guru Nanak Dev Ji, the founder of Sikhism. This auspicious day falls on
+        the full moon day in the month of Kartik, according to the Nanakshahi
+        calendar.
+      </p>
+      <div class="image">
+        <img
+          class="img1"
+          src="Images/gurunanak-dev-ji_1637261064.avif"
+          height="230px"
+          width="430px"
+          alt=""
+        />
       </div>
-    </div>
+      <p class="my-2">
+        Life and Teachings of Guru Nanak Dev Ji:<br />
+        Guru Nanak Dev Ji was born in 1469 in the village of Talwandi, now known
+        as Nankana Sahib in present-day Pakistan. From a young age, Guru Nanak
+        displayed a profound spiritual inclination. His teachings emphasize the
+        oneness of God, equality, and the importance of selfless service.
+      </p>
 
-    <p id="demo"></p>
-    <script src="script.js"></script>
-    <script
-      type="text/javascript"
-      src="https://ssl.gstatic.com/trends_nrtr/3523_RC02/embed_loader.js"
-    ></script>
-    <script type="text/javascript">
-      trends.embed.renderWidget("dailytrends", "", {
-        geo: "IN",
-        guestPath: "https://trends.google.com:443/trends/embed/",
-      });
-    </script>
+      <div class="image">
+        <img
+          class="img1"
+          src="Images/EDrd8klU0AYw-iE.jpg"
+          height="230px"
+          width="430px"
+          alt=""
+        />
+      </div>
+
+      <p class="my-2">
+        1. Oneness of God (Ik Onkar): Guru Nanak preached the concept of "Ik
+        Onkar," emphasizing the oneness of God and the interconnectedness of all
+        creation. This foundational principle became the core of Sikh
+        philosophy.
+      </p>
+
+      <p class="my-2">
+        2. Equality and Brotherhood: Guru Nanak vehemently opposed
+        discrimination based on caste, creed, or gender. He emphasized the
+        equality of all human beings, referring to the entire human race as one.
+      </p>
+
+      <p class="my-2">
+        3. Naam Japna, Kirat Karni, Vand Chakna: Guru Nanak advocated for the
+        practice of Naam Japna (meditating on God's name), Kirat Karni (honest
+        living and hard work), and Vand Chakna (sharing with others). These
+        principles guide Sikhs towards a life of righteousness and compassion.
+      </p>
+
+      <div class="row image">
+        <h3 class="text-center " style="color: orange;">Gurpurab Celebrations</h3>
+        <div class="col-md-6 col-sm-12">
+          <img
+            class="img1"
+            src="Images/Gurpurab1.jpg"
+            height="230px"
+            width="430px"
+            alt=""
+          />
+        </div>
+        <div class="col-md-6 col-sm-12 my-2">
+          <img
+            class="img1"
+            src="Images/gurpurab2.webp"
+            height="230px"
+            width="430px"
+            alt=""
+          />
+        </div>
+      </div>
+      <p class="my-2">
+        1. Akhand Path: Devotees engage in the continuous recitation of the Guru
+        Granth Sahib, the holy scripture of Sikhism, during a 48-hour non-stop
+        reading known as Akhand Path.
+      </p>
+      <p class="my-2">
+        2. Nagar Kirtan: Processions, known as Nagar Kirtan, are taken out,
+        featuring hymn singing, martial arts displays, and the holy scripture
+        being carried on a decorated float.
+      </p>
+      <p class="my-2">
+      3. Gurdwara Decorations: Gurdwaras, Sikh places of worship, are adorned
+      with lights, flowers, and colorful decorations. Devotees come together to
+      participate in prayer sessions, kirtan (spiritual music), and langar
+      (community kitchen).
+      </p>
+      <h3 class="text-center " style="color: orange;"> Impact on Society</h3>
+      <p class="my-2">
+        Guru Nanak's teachings have left an enduring impact on society. Sikhism promotes social justice, community service, and the welfare of all. The langar tradition, where free meals are served to everyone regardless of background, exemplifies the spirit of selfless service.
+        </p>
+
+        <p class="my-2">
+          While Guru Nanak Jayanti holds profound significance for Sikhs, its celebration transcends religious boundaries. People from various communities participate in the festivities, recognizing the universal values preached by Guru Nanak.
+        </p>
+        <p class="my-2">
+          In conclusion, Guru Nanak Jayanti is a time for reflection, prayer, and communal harmony. As the world comes together to honor the teachings of Guru Nanak Dev Ji, it serves as a reminder of the timeless wisdom that continues to inspire and guide countless individuals on their spiritual journey.        </p>
+    </div>
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
       integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
