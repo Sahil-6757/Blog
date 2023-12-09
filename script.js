@@ -26,7 +26,6 @@ async function loadDoc() {
   });
 }
 async function sport() {
-
   let response = await fetch("Newsdata/api/sports.json");
   let data = await response.json();
   let articles = await data.articles;
@@ -56,7 +55,6 @@ async function sport() {
 }
 
 async function entertainment() {
-
   let response = await fetch("Newsdata/api/entertainment.json");
   let data = await response.json();
   let articles = await data.articles;
@@ -86,7 +84,6 @@ async function entertainment() {
 }
 
 async function technology() {
-
   let response = await fetch("Newsdata/api/technology.json");
   let data = await response.json();
   let articles = await data.articles;
