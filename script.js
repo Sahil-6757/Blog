@@ -1,115 +1,60 @@
-async function loadDoc() {
-  let response = await fetch("Newsdata/api/general.json");
-  let data = await response.json();
-  let articles = await data.articles;
-  let row = document.getElementById("row");
-  // console.log(articles)
-
-  articles.map((element) => {
-    // console.log(element)
-    row.innerHTML += ` <div class="col-md-4 my-2">
-    <div class="card" style="width: 18rem">
-      <img src="${element.urlToImage}" class="card-img-top" alt="..." />
-      <div class="card-body">
-        <h5 class="card-title">${element.title}</h5>
-        <p class="card-text">
-          ${element.description}
-        </p>
-        <a href="${element.url}" class="btn btn-primary mx-5">Read More</a>
-        <div class="d-flex justify-content-center">
-        <p class="text-center text-danger">Source: ${element.source.name}</p> 
-        </div>
-        
-      </div>
-    </div>
-  </div>`;
-  });
-}
 async function sport() {
-  let response = await fetch("Newsdata/api/sports.json");
+  let response = await fetch("https://news-ir1m.onrender.com/formget");
   let data = await response.json();
-  let articles = await data.articles;
+  let articles = await data;
   let row = document.getElementById("row");
-  row.innerHTML = ``;
-  // console.log(articles)
 
   articles.map((element) => {
-    // console.log(element)
-    row.innerHTML += ` <div class="col-md-4 my-2">
-    <div class="card" style="width: 18rem">
-      <img src="${element.urlToImage}" class="card-img-top" alt="..." />
-      <div class="card-body">
-        <h5 class="card-title">${element.title}</h5>
-        <p class="card-text">
-          ${element.description}
-        </p>
-        <a href="${element.url}" class="btn btn-primary mx-5">Read More</a>
-        <div class="d-flex justify-content-center">
-        <p class="text-center text-danger">Source: ${element.source.name}</p> 
+    row.innerHTML += `
+      <div class="newsItem my-2">
+      <div class="imageBanner">
+          <img
+            src=${element.imageurl}
+            class="image"
+            alt=""
+          />
         </div>
-        
-      </div>
-    </div>
-  </div>`;
+        <div class="content">
+        <h3 class="text-center">${element.name}</h3>
+        <hr/>
+          <h5>
+            ${element.description}
+          </h5>
+          <p class="content-publish">Published At ${element.date}</p>
+        </div> </div>`;
   });
 }
 
-async function entertainment() {
-  let response = await fetch("Newsdata/api/entertainment.json");
+async function indianNews() {
+  let response = await fetch("https://news-ir1m.onrender.com/indianNews");
   let data = await response.json();
-  let articles = await data.articles;
-  let row = document.getElementById("row");
+  let articles = await data;
+  let row = document.getElementById("rowIndian");
   row.innerHTML = ``;
-  // console.log(articles)
-
   articles.map((element) => {
-    // console.log(element)
-    row.innerHTML += ` <div class="col-md-4 my-2">
-    <div class="card" style="width: 18rem">
-      <img src="${element.urlToImage}" class="card-img-top" alt="..." />
-      <div class="card-body">
-        <h5 class="card-title">${element.title}</h5>
-        <p class="card-text">
-          ${element.description}
-        </p>
-        <a href="${element.url}" class="btn btn-primary mx-5">Read More</a>
-        <div class="d-flex justify-content-center">
-        <p class="text-center text-danger">Source: ${element.source.name}</p> 
+    console.log(element);
+    row.innerHTML += `
+      <div class="newsItem my-2">
+      <div class="imageBanner">
+          <img
+            src=${element.imageurl}
+            class="image"
+            alt=""
+          />
         </div>
-        
-      </div>
-    </div>
-  </div>`;
+        <div class="content">
+        <h3 class="text-center">${element.name}</h3>
+        <hr/>
+          <h5>
+            ${element.description}
+          </h5>
+          <p class="content-publish">Published At ${element.date}</p>
+        </div>
+         </div>`;
   });
 }
 
-async function technology() {
-  let response = await fetch("Newsdata/api/technology.json");
-  let data = await response.json();
-  let articles = await data.articles;
-  let row = document.getElementById("row");
-  row.innerHTML = ``;
-  // console.log(articles)
-
-  articles.map((element) => {
-    // console.log(element)
-    row.innerHTML += ` <div class="col-md-4 my-2">
-    <div class="card" style="width: 18rem">
-      <img src="${element.urlToImage}" class="card-img-top" alt="..." />
-      <div class="card-body">
-        <h5 class="card-title">${element.title}</h5>
-        <p class="card-text">
-          ${element.description}
-        </p>
-        <a href="${element.url}" class="btn btn-primary mx-5">Read More</a>
-        <div class="d-flex justify-content-center">
-        <p class="text-center text-danger">Source: ${element.source.name}</p> 
-        </div>
-        
-      </div>
-    </div>
-  </div>`;
-  });
-}
-
-loadDoc();
+window.addEventListener("load", (e) => {
+  indianNews();
+  sport();
+});
